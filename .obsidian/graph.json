@@ -1,22 +1,44 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Papers  ",
+      "color": {
+        "a": 1,
+        "rgb": 14159461
+      }
+    },
+    {
+      "query": "path:\"Sensory profiles\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Sensory processing pattern\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9951506
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.433471933471933,
+  "repelStrength": 12.1621621621622,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224406,
-  "close": true
+  "linkDistance": 208,
+  "scale": 0.7132754626224382,
+  "close": false
 }

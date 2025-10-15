@@ -1,1 +1,1 @@
-See [[Sensory phenotypes]]
+See [[Sensory subtypes (or phenotypes)]]

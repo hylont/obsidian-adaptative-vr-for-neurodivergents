@@ -6,6 +6,7 @@ keyword2: "[[Virtual Reality]]"
 keyword3: "[[Autism]]"
 keyword4: "[[Visual search]]"
 keyword5: "[[Cognitive processing]]"
+doi: 10.1007/s10055-023-00933-6
 ---
 ## Objectives
 

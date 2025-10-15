@@ -1,0 +1,6 @@
+
+
+Subtypes :
+- Hyperactive
+- Impulsive
+- Combined

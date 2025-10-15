@@ -1,1 +1,0 @@
-See [[Sensory adaptative (SA)]], [[Generalized Sensory Differences (GSD)]], [[Taste and Smell Sensitivity (TSS)]], [[Under-Responsive and Sensory Seeking (URSS)]] and [[Movement and Low Energy-Weakness (M-LEW)]]
