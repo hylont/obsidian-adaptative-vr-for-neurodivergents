@@ -1,4 +1,4 @@
->In order to understand how the co-occurrence of sensory processing patterns impacts behavior, research has begun to characterize groups of children based on differences of co-occurring sensory patterns [[Classifying sensory profiles of children in the general population]]
+>In order to understand how the co-occurrence of sensory processing patterns impacts behavior, research has begun to characterize groups of children based on differences of co-occurring sensory patterns ([[Classifying sensory profiles of children in the general population]])
 
 Different models emerged :
 
