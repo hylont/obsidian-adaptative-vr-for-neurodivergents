@@ -10,7 +10,7 @@ doi: 10.1111/cch.12391
 ## Objectives
 
 - Find which model of [[Sensory subtypes (or phenotypes)]] is more optimal.
-- Determine whether or not children with a *"condition"* (= [[ASD]] or [[ADHD]]) have the same [[Sensory subtypes (or phenotypes)]] than *"[[Typically developed children]]"*
+- Determine whether or not children with a *"condition"* (= [[ASD]] or [[ADHD]]) have the same [[Sensory subtypes (or phenotypes)]] than *"[[Typically developed (TD)]] children"*
 
 ## Procedure
 
@@ -25,26 +25,26 @@ doi: 10.1111/cch.12391
 
 - 1 Balanced (*"overall low sensory processing scores"*) 
 	- > Clearly, some children with ASD demonstrate adaptive, or expected, responses to sensory experiences. 
-	- 88.6% of [[Typically developed children]]
+	- 88.6% of [[Typically developed (TD)]]
 	- 35.1% of [[ASD]]
 	- 53.1% of [[ADHD]]
 - 2 Interested (*"high rates of sensory [[Seeking]] with low scores on other sensory patterns"*)
 	- > Children in this group may be seeking out different sensory stimuli, such as movement, tactile or auditory, and enjoy intense sensory experiences. 
 	- > Research suggests that children with typical development show similar rates of sensory seeking to children with conditions until the age of 4 years. However, sensory seeking in children with conditions such as ASD and ADHD increases as children age, whereas the sensory seeking in typically developing children decreases 
-	- 6.1% of [[Typically developed children]]
+	- 6.1% of [[Typically developed (TD)]]
 	- 8.9% of [[ASD]]
 	- 13.5% of [[ADHD]]
 - 3 Intense (*"high sensory scores"*)
-	- 2% of [[Typically developed children]]
+	- 2% of [[Typically developed (TD)]]
 	- 19.5% of [[ASD]]
 	- 10.4% of [[ADHD]]
 - 4 Mellow until (*"high frequency of [[Registration]] (i.e. misses more sensory cues) and [[Avoidance]]"*)
 	- > Children in this profile may not notice sensory stimuli (low registration) as quickly as other children. However, when a stimulus becomes salient enough for the child to notice, the stimuli may quickly become aversive (avoiding).
-	- 2.3% of [[Typically developed children]]
+	- 2.3% of [[Typically developed (TD)]]
 	- 11.7% of [[ASD]]
 	- 10.4% of [[ADHD]]
 - 5 Vigilant (*"increased sensitivity and [[Avoidance]] to sensory stimuli with low [[Seeking]] and [[Registration]] scores."*)
-	- 1% of [[Typically developed children]]
+	- 1% of [[Typically developed (TD)]]
 	- 24.7% of [[ASD]]
 	- 12.5% of [[ADHD]]
 ## Conclusion
