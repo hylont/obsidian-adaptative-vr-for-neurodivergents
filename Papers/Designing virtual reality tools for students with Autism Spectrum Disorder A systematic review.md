@@ -11,8 +11,7 @@ doi: 10.1007/s10639-022-11545-z
 
 1. What type of [[Virtual Reality]] has been used most frequently in research with [[Autistic]]
 students?
-2. What are the research objectives that have been most often worked on for imple-
-menting [[Virtual Reality]] for [[Autistic]] students?
+2. What are the research objectives that have been most often worked on for implementing [[Virtual Reality]] for [[Autistic]] students?
 3. What type of instrument has been the most employed by researchers in their
 interventions for [[Autistic]] students?
 4. What are the characteristics of the activities designed for the intervention of
@@ -32,7 +31,7 @@ for [[Autistic]] students?
 
 >In addition to this, the identification, interpretation, and emotional response was another of the objectives in 13.15% 
 
->42.10% (n = 16) of the studies used question- naires. ... [[Social Responsive Scale (SRS) ]] ... [[Social Communication Questionnaire (SCQ) ]] ... [[Communicative Responses/Acts Score Sheet (CRASS)]]
+>42.10% (n = 16) of the studies used questionnaires. ... [[Social Responsive Scale (SRS) ]] ... [[Social Communication Questionnaire (SCQ) ]] ... [[Communicative Responses/Acts Score Sheet (CRASS)]]
 
 >Another of the results to highlight is that in 15.78% (n = 6) of the studies it is observed that [[Virtual Reality]] is very well accepted by [[Autistic]] students.
 

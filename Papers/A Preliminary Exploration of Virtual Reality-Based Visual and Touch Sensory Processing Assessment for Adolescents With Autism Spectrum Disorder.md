@@ -48,6 +48,6 @@ doi: " 10.1109/TNSRE.2021.3064148"
 >Moreover, SAVR identifies more significant differences between the two groups than the [[Adult-Adolescent Sensory Profile (AASP)]], suggesting that a [[Virtual Reality]] based system may have better assessment sensitivity than a traditional questionnaire that relies upon adolescent or parent awareness of [[Sensory processing]]. 
 ## Images
 
-![[Pasted image 20251021150119.png]]
+![[KoiralaSAVR.png]]
 
 ![[Koirala2021GazeDistribution.png]]
