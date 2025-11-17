@@ -48,6 +48,6 @@ for [[Autistic]] students?
 
 >The most widely used type of virtual reality to date is desktop [[Virtual Reality]]. 
 
->the two most frequent research purposes have been: firstly, to develop and teach social skills and secondly, to work on the identifica- tion, interpretation, and emotional response of [[Autistic]] students 
+>the two most frequent research purposes have been: firstly, to develop and teach social skills and secondly, to work on the identification, interpretation, and emotional response of [[Autistic]] students 
 
 >it is recommended to use an [[Avatar]] to ask the child what his or her mood is. The child could respond with a series of YES or NO cubes if he/she knows the expression that the avatar is express- ing. The cubes are used so that this activity can be navigated by [[Autistic]] students with different levels and input of communication. 

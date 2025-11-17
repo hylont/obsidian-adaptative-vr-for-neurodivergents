@@ -4,7 +4,7 @@ year: "2021"
 see: "[[ASSESSMENT OF SENSORY ABNORMALITIES IN CHILDREN WITH ASD USING VIRTUAL REALITY (Preview)]]"
 doi: " 10.1109/TNSRE.2021.3064148"
 ---
-## Objectives
+	## Objectives
 
 >explore if [[Virtual Reality]]  has the potential to be used specifically as a tool to evaluate the special [[Sensory processing pattern]] in children with [[ASD]]. 
 
