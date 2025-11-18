@@ -1,0 +1,3 @@
+[[A Review of Olfactory Display Designs for Virtual Reality Environments]]
+>there is no general theory on how smell can be similarly sampled and encoded in binary format, as there is no simple analogy to the waveforms that characterize the other senses
+>When odors, or more specifically the particles that make up the odors, flow into the nasal cavity, they bind with the tips of these receptors [37], which depolarizes them. This depolarization generates a signal [102], which is sent to the olfactory bulb in the brain. The olfactory bulb then provides a sensory map, which is used to identify which receptors were activated

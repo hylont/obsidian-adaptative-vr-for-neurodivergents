@@ -1,0 +1,3 @@
+[[A Review of Olfactory Display Designs for Virtual Reality Environments]]
+>... utilizes technologies known as olfactory VR displays (OVR displays) as a means of presenting smells to users to enhance VR experiences. OVR displays are usually situated either in the user’s spatial environment or are worn by the user directly. They can present a single scent or many scents, any combination of which can be triggered by software.
+>The earliest agreed form of an OVR display can be traced to the well-cited Sensorama developed in the 1960s [74], which provided smells in addition to the wind, motion, video, and audio feedback to a seated user while watching movies

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "olfaction",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 9951506
       }
+    },
+    {
+      "query": "file:SYNTHESIS",
+      "color": {
+        "a": 1,
+        "rgb": 19711
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 12.1453287197232,
   "linkStrength": 1,
   "linkDistance": 208,
-  "scale": 0.23746687235997863,
+  "scale": 0.693912869722489,
   "close": true
 }

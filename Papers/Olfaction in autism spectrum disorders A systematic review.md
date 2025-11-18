@@ -4,9 +4,9 @@ year: "2015"
 doi: 10.1080/09297049.2015.1081678
 keyword1: "[[ASD]]"
 keyword2: "[[Autism]]"
-keyword3: "[[Olfaction]]"
-keyword4: "[[Smell]]"
+keyword3: "[[Olfaction (or smell)]]"
 keyword5: "[[Neurodevelopmental disorders]]"
+keyword4: Smell
 ---
 ## Correlations with other disorders/syndromes
 

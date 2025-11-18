@@ -4,7 +4,7 @@ year: "2016"
 doi: 10.1186/s13229-016-0070-3
 keyword1: "[[ASD]]"
 keyword2: "[[Hyperresponsiveness]]"
-keyword3: "[[Olfaction]]"
+keyword3: "[[Olfaction (or smell)]]"
 keyword4: "[[Suprathreshold detection]]"
 ---
 # Background
@@ -15,7 +15,7 @@ keyword4: "[[Suprathreshold detection]]"
 
 >the ratings of intensity, pleasantness, familiarity, and edibility are different olfactory judgments that require activation from perceptual to semantic representations [24, 25]
 
->Emotion and pleasantness judgment are primary facets of [[Olfaction]] [29], and the pleasantness judgment is commonly used to rate subjective emotional experience
+>Emotion and pleasantness judgment are primary facets of [[Olfaction (or smell)]] [29], and the pleasantness judgment is commonly used to rate subjective emotional experience
 
 >Moreover, odor identification performances have been correlated with self-ratings of [[empathy]] [18], one of the most clearly impaired cognitive functions in individuals with [[ASD]]
 # Objectives
@@ -23,7 +23,7 @@ keyword4: "[[Suprathreshold detection]]"
 >We hypothesized that individuals with [[ASD]] would make modified intensity and [[Pleasantness judgment]] , perceiving odors more intense and/or more unpleasant than control participants. They would display a greater number of errors compared to control participants in the [[Suprathreshold detection]] task because they would adopt a more liberal decision criterion than the control participants, and would have reduced identification performances
 # Experimental Design & Procedure
 
->The entire experiment comprised four successive tests: [[Suprathreshold detection]], [[Intensity judgment]], [[Pleasantness judgments]] , and identification
+>The entire experiment comprised four successive tests: [[Suprathreshold detection]], [[Intensity judgment]], [[Pleasantness judgment]]s , and identification
 
 >The order of the tests was identical for all participants. In each test, the experimenter presented a jar containing an odorant under the participant’s nose in 30-s intervals, with each odorant presented for approximately 5 s
 

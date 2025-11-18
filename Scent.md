@@ -1,0 +1,2 @@
+[[A Review of Olfactory Display Designs for Virtual Reality Environments]]
+>Scent notes are the individual components that constitute the overall composition of a fragrance [76]. The top notes are the first impressions of a scent that are detected immediately, followed by the middle notes that are lighter and last longer, and finally, the base notes that are the heaviest and take the longest time to detect. Generally, the molecular complexity of a fragrance is linked to the number of scent notes it has and its pleasantness
