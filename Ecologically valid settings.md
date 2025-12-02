@@ -1,0 +1,2 @@
+[[Application of Supervised Machine Learning for Behavioral Biomarkers of Autism Spectrum Disorder Based on Electrodermal Activity and Virtual Reality]]
+>environments and situations similar to real ones, able to elicit everyday experiences and behaviors related to daily functioning (Franzen and Wilhelm, 1996; Chaytor et al., 2006). The more the assessment measure is valid from an ecological point of view, the more that the results can be generalized to the real world

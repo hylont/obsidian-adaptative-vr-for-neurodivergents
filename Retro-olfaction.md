@@ -1,0 +1,2 @@
+[[Virtual Reality and Autism Spectrum Disorder - Emergence of Sensory-Motor and Olfactory Potentialities in an Anthropocentric Epistemological Approach]]
+>evident from the moment a child is born (Candau, 2000), is a physiological mechanism that enables the olfactory system to perceive aromatic characteristics
