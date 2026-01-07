@@ -25,7 +25,7 @@ for [[Autistic]] students?
 
 ## Redaction recommandations
 
->The results indicated an absence of control groups in comparing the findings in addition to a lack of details related to ethi- cal and safety practices. 
+>The results indicated an absence of control groups in comparing the findings in addition to a lack of details related to ethical and safety practices. 
 
 ## Results
 

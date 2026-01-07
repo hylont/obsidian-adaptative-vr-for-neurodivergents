@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "olfaction",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 12.1453287197232,
   "linkStrength": 1,
   "linkDistance": 208,
-  "scale": 0.693912869722489,
+  "scale": 0.7209478562548799,
   "close": true
 }

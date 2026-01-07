@@ -45,7 +45,7 @@ keyword4: "[[Electrodermal activity (EDA)]]"
 >The study included 52 children between the ages of 4 and 7 years. In detail, 23 TD children (age = 4.87 ± 0.92; male = 13, female = 10) and 29 children with a previous diagnosis of [[ASD]] (age = 5.20 ± 1.34; male = 26, female = 3) participated in experiment 1
 # Measures
 
-
+Success at replicating an avatar's gesture
 # Results
 
 >the model developed using the forest VE presented a higher accuracy (forest VE—all, 90.3%) than the model developed using the city VE (city VE—all, 70.59%)

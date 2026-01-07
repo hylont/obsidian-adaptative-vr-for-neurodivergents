@@ -60,25 +60,41 @@ Following Dunn's [[Sensory profiles]], it's possible to adapt an experience's vi
 --- 
 # Experimental design
 
-Main challenges :
+### Objective :
+Following Dunn's [[Sensory profiles]], it's possible to adapt an experience's visual, olfactive and auditive stimuli after a first calibration experience
+
+### Main challenges :
 - Avoid [[Sensory fatigue]] and [[Desensitization]]
 - We need to create a "Sensory sensibilities" file first, then load it on a second experiment. (And not [[Sensory profiles]], due to [[Classifying sensory profiles of children in the general population]])
 - Be sure that the profile is still relevant some time after the calibration
 - The olfactive stimuli need to be triggered by a mandatory interaction, to avoid double [[Scent]] contamination
+- The stimulis and scents used in the calibration phase should not be used in the calibrated phase. The goal is to prove whether or not we can create a general sensory profile
 
-Sound categories ? annoying, arousing, bad tendency memory, positive ?
-Odors categories ?
+### Unknown :
+- Sound categories ? annoying, arousing, bad tendency memory, positive ?
+- Odors categories ? annoying, arousing, bad tendency memory, positive ?
+- Do we create a sensory file first, then use it to do another exposure to the scenes or do we make a second experiment one week after ?
+- Should the calibration phase be in a neutral environment ?
+
+### Experimental design
 
 Calibration :
-DVs : 
-- 
+DVs (WIP) : 
+- Calibration phase :
+	- Emotion recognition with face tracking ?
+	- Questionnaire ?
+	- Manual adjustments ?
+- Calibrated phase :
+	- Overwhelmed ?
+	- Presence ?
+	- Enjoyed the experience ?
 
 IVs :
 - Environment :
 	- Woods
 	- Kitchen
 	- Break room
-- Audio stimuli (positive/arousing, neutral, randomly occurring noise/distracting)
+- OCASIONNAL Audio stimuli (positive/arousing, neutral, randomly occurring noise/distracting)
 	- For the woods
 		- Bird chirp
 		- 
@@ -96,11 +112,10 @@ IVs :
 		- 
 		- Mushroom
 	- For the kitchen
-		- Butter (frying egg)
 		- Hot bread
+		- Butter (frying egg)
 	- For the break room
 		- Coffee
 		- Orange
 
 
-### Protocol proposition 1 - 3 groups method
