@@ -17,7 +17,7 @@ keyword4: "[[Suprathreshold detection]]"
 
 >Emotion and pleasantness judgment are primary facets of [[Olfaction (or smell)]] [29], and the pleasantness judgment is commonly used to rate subjective emotional experience
 
->Moreover, odor identification performances have been correlated with self-ratings of [[empathy]] [18], one of the most clearly impaired cognitive functions in individuals with [[ASD]]
+>Moreover, odor identification performances have been correlated with self-ratings of [[Empathy]] [18], one of the most clearly impaired cognitive functions in individuals with [[ASD]]
 # Objectives
 
 >We hypothesized that individuals with [[ASD]] would make modified intensity and [[Pleasantness judgment]] , perceiving odors more intense and/or more unpleasant than control participants. They would display a greater number of errors compared to control participants in the [[Suprathreshold detection]] task because they would adopt a more liberal decision criterion than the control participants, and would have reduced identification performances
@@ -89,6 +89,13 @@ keyword4: "[[Suprathreshold detection]]"
 >We suggest that the lower identification performance in individuals with [[ASD]] is not due to or only to a perceptual or semantic deficit but could also be related to an attentional deficit.
 
 => [[ADHD]]
+
+# Synthesis
+
+This study tries to find how [[Olfactory]] perception is different between [[Typically developed (TD)]] and [[ASD]] adults.
+The entire experiment comprised four successive tests: [[Suprathreshold detection]], [[Intensity judgment]], [[Pleasantness judgment]]s , and identification
+Basically, [[ASD]] have lower supra-threshold detection scores, rated smells to be more intense than controls, and had more difficulties identifying smells ([[ADHD]] ?). They classified pleasant and unpleasant smells the same as controls.
+A difficulty can be to monitor responses, that can be the opposite of sensory sensitivity
 # Images
 
 ![[WickerResults.png]]

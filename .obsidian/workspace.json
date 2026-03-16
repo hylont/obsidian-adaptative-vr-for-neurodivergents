@@ -4,25 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "f881c23494a9224c",
+        "id": "7a13c9e44de9fd0c",
         "type": "tabs",
         "children": [
           {
-            "id": "48551771cd54c6f4",
+            "id": "734c0200299be34c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
+          },
+          {
+            "id": "45de91b52c5fc2f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SYNTHESIS2.md",
+                "file": "Papers/Olfactory Nomenclature - An Orchestrated Effort to Clarify Terms and Definitions of Dysosmia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SYNTHESIS2"
+              "title": "Olfactory Nomenclature - An Orchestrated Effort to Clarify Terms and Definitions of Dysosmia"
             }
           },
           {
-            "id": "5c328bcb5eb80c06",
+            "id": "ad292c00ea952ff9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROTOCOL1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROTOCOL1"
+            }
+          },
+          {
+            "id": "5ccba2c1ea10f3c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,8 +58,23 @@
               "icon": "lucide-file",
               "title": "Exploring Multisensory Extended Reality Approaches for Autistic Children - Improve Well-Being and Assess Auditory Perception"
             }
+          },
+          {
+            "id": "cfae2aaa75eb6e1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/The impact of visual and auditory distractions on the performance of neurodiverse students in virtual reality (VR) environments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The impact of visual and auditory distractions on the performance of neurodiverse students in virtual reality (VR) environments"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +97,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -92,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 458.5
   },
   "right": {
     "id": "0e1dc361b5971035",
@@ -175,52 +214,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
     }
   },
-  "active": "48551771cd54c6f4",
+  "active": "45de91b52c5fc2f3",
   "lastOpenFiles": [
-    "Papers/Exploring Multisensory Extended Reality Approaches for Autistic Children - Improve Well-Being and Assess Auditory Perception.md",
-    "SYNTHESIS2.md",
-    "attachments/Pasted image 20260107230622.png",
-    "Papers/Application of Supervised Machine Learning for Behavioral Biomarkers of Autism Spectrum Disorder Based on Electrodermal Activity and Virtual Reality.md",
-    "Papers/Designing virtual reality tools for students with Autism Spectrum Disorder A systematic review.md",
-    "Papers/Imaginator - A Virtual Reality Based Game for the Treatment of Sensory Processing Disorders.md",
-    "Papers/Sensory adaptation.md",
-    "Papers/The impact of visual and auditory distractions on the performance of neurodiverse students in virtual reality (VR) environments.md",
+    "Papers/A Process-Model for Minimizing Adverse Effects when Using Head Mounted Display-Based Virtual Reality for Individuals with Autism.md",
+    "attachments/Pasted image 20260316214924.png",
+    "Papers/TODO/A narrative review of immersive virtual reality’s ergonomics and risks at the workplace - cybersickness, visual fatigue, muscular fatigue, acute stress, and mental overload.md",
+    "Papers/Measuring Visual Fatigue and Cognitive Load via Eye Tracking while Learning with Virtual Reality Head-Mounted Displays - A Review.md",
+    "Papers/Predicting virtual reality discomfort.md",
+    "Papers/TODO/Virtual Reality and Symptoms Management of Anxiety, Depression, Fatigue, and Pain- A Systematic Review.md",
+    "Papers/TODO/Overcoming the information overload problem in a multiform feedback-based virtual reality system for hand motion rehabilitation - healthy subject case study.md",
+    "Papers/TODO/Exploring the Effects of Visual and Auditory Distractors in Virtual Reality on Perceived Cognitive Load and Cognitive Alertness.md",
+    "Papers/TODO/Attention to novelty versus repetition - Contrasting habituation profiles in Autism and Williams syndrome.md",
+    "PROTOCOL1.md",
     "Papers/Virtual Reality and Autism Spectrum Disorder - Emergence of Sensory-Motor and Olfactory Potentialities in an Anthropocentric Epistemological Approach.md",
-    "Papers/Olfactory processing in adults with autism spectrum disorders.md",
-    "Papers/Olfaction in autism spectrum disorders A systematic review.md",
+    "Visual fatigue.md",
+    "Cognitive load.md",
+    "attachments/Pasted image 20260316182556.png",
+    "attachments/Pasted image 20260316182402.png",
+    "Papers/_EXAMPLE.md",
+    "Papers/A Preliminary Exploration of Virtual Reality-Based Visual and Touch Sensory Processing Assessment for Adolescents With Autism Spectrum Disorder.md",
+    "Olfaction (or smell).md",
     "Papers/A Review of Olfactory Display Designs for Virtual Reality Environments.md",
+    "Papers/Exploring Multisensory Extended Reality Approaches for Autistic Children - Improve Well-Being and Assess Auditory Perception.md",
+    "Papers/The impact of visual and auditory distractions on the performance of neurodiverse students in virtual reality (VR) environments.md",
+    "Empathy.md",
+    "attachments/Pasted image 20260312145301.png",
+    "Papers/Sensory adaptation.md",
+    "Papers/Virtual reality and stimulation of touch and smell for inducing relaxation - A randomized controlled trial.md",
+    "Papers/Olfaction in autism spectrum disorders A systematic review.md",
+    "Papers/Odor Intensity and pleasantness for a diverse set of odorants.md",
     "Papers/A Mechanistic Link between Olfaction and Autism Spectrum Disorder.md",
-    "Scent.md",
-    "Papers/Exploring sensory phenotypes in autism spectrum disorder.md",
-    "Papers/Evaluating a virtual reality sensory room for adults with disabilities.md",
-    "Sensory processing pattern/Sensory processing pattern.md",
-    "Sensory profiles/Sensory subtypes (or phenotypes).md",
-    "Sensory profiles/Generalized Sensory Differences (GSD).md",
-    "Papers/Classifying sensory profiles of children in the general population.md",
-    "Sensory profiles/Sensory adaptative (SA).md",
-    "Sensory profiles/Movement and Low Energy-Weakness (M-LEW).md",
-    "Sensory phenotypes.md",
-    "Sensory profiles.md",
-    "sensory.md",
-    "SYNTHESIS.md",
-    "attachments/Pasted image 20260105152358.png",
-    "attachments/Pasted image 20260105152342.png",
-    "attachments/Pasted image 20260105152106.png",
-    "attachments/Pasted image 20260105152047.png",
-    "attachments/Pasted image 20260105152010.png",
-    "attachments/Pasted image 20260105151957.png",
-    "attachments/Pasted image 20260105151907.png",
-    "attachments/Pasted image 20260105151843.png",
+    "Papers/Imaginator - A Virtual Reality Based Game for the Treatment of Sensory Processing Disorders.md",
+    "Papers/TODO",
+    "attachments/Pasted image 20260126094609.png",
     "attachments/Pasted image 20260105151609.png",
+    "attachments/Pasted image 20260123172918.png",
+    "attachments/Pasted image 20260123143934.png",
+    "attachments/Pasted image 20260123143906.png",
+    "attachments/Pasted image 20260123143840.png",
+    "Papers/TODO",
     "Articles",
     "Untitled.base",
     "Adult",
@@ -228,7 +269,6 @@
     "Papers",
     "attachments",
     "Sensory profiles",
-    "M",
-    "Definitions"
+    "M"
   ]
 }

@@ -48,6 +48,11 @@ Significant improvement in [[Anxiety]]
 
 >It could be hypothesised that a [[VR]] [[sensory room]] may impact [[anxiety]], [[depression]] and [[Sensory processing]] in the short term. 
 
+# Synthesis
+
+This paper tries to reduce [[Anxiety]] of [[Sensory processing Disorder (SPD)]] populations with a sensory room approach.
+It concludes that the system has a positive impact on anxiety and [[Depression]] but it's possible that the participants follow a therapy during the 5 months use period.
+
 ## Images
 
 ![[MillsEvenness.png]]

@@ -43,6 +43,15 @@ The increase in the number of distractors has a significantly greater negative i
 ## Conclusion
 
 The fact that background sound led to an improvement on [[Neurodivergent]] participants performance carries important implications for testing the impact of design elements on performance.
+
+# Synthesis
+
+Thus paper studies the impact of auditory and visual distractions on speed & accuracy of [[Neurodiverse]] and [[Neurotypical]] users.
+They monitored response time and numbers of hits (and misses) : The more distractors there are, the longer it takes and the more imprecise the participants become
+The increase in the number of distractors has a significantly greater negative impact on [[Neurodivergent]] participants, as they tended to be both slower and less accurate as the number of distractors increased.
+[[Neurodivergent]] learners perform better, in terms of both speed and accuracy, on the [[Visual search]] task in the loud background sound condition than they do in the no-background sound condition, whereas [[Neurotypical]] participants show the opposite
+
+Interestingly, light intensity was more negatively impactful than auditory distractors.
 ## Images
 
 ![[Dahlstrom-HakiGrid.png]]

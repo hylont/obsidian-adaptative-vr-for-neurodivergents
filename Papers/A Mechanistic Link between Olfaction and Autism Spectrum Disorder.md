@@ -45,6 +45,12 @@ doi: 10.1016/j.cub.2015.05.048
 >Finally, several technical issues (such as compliance) need to be addressed before this could become a useful tool in clinics
 
 >Thus, the results obtained here are supportive of the notion that impaired IAMs are at the mechanistic root of [[ASD]].
+
+# Synthesis
+
+In this study about sniff responses measures with [[ASD]] children, it is clear that Sniff responses are different with [[ASD]] children vs [[Typically developed (TD)]] children : sniff volume of unpleasant odors ([[Pleasantness judgment]]) is higher for ASD children (12/18). It also supports that TD children will have (17/18) appropriate sniff responses. The conclusions are in line with the [[ADOS]] test.
+Control group : yes
+
 ## Images
 
 ![[RozenkrantzPleasantSniffingGraphs.png]]![[RozenkrantzExperiment.png]]

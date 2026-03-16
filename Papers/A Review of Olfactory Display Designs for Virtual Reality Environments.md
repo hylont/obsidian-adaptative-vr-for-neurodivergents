@@ -28,7 +28,7 @@ keyword6: "[[Olfactive VR]]"
 >One method is to use variables to control the intensity of the [[Scent]] being released, for example, based on the distance between the user and the source of the [[Scent]]. If the user is close to the source of a strong smell, then the software could instruct the OVR display to release a higher concentration of the [[Scent]]
 ## [[Olfactory]] devices types
 
->two types of [[Olfactory]] display approaches that could be used in VR therapy treatments: 
+>three types of [[Olfactory]] display approaches that could be used in VR therapy treatments: 
 - ubiquitous-type displays in which the [[Olfactory]] display is situated in the environment
 - wearable-type displays, which the user wears
 - Handled : embed OVR displays into various objects that can be used in VR systems, such as controllers that deliver the [[Scent]]
@@ -93,6 +93,22 @@ keyword6: "[[Olfactive VR]]"
 >it is not an essential component for creating a sense of [[Presence]] in VR, as [[Presence]] can also be achieved through other modalities such as visual and auditory cues, haptic feedback, and body tracking
 
 >Our systematic review revealed that most work in OVR has been in the last decade, with a focus on ubiquitous and wearable presentations concentrated on studying perceptual, engineering, and mental health challenges
+
+# Synthesis
+
+First, this review paper emphasizes that allowing [[Olfaction (or smell)]] to be reproductible is difficult, as there is no way of encoding a smell. However they state that a smell is characterized by its [[Smell intensity]] and Smell duration.
+They also state that Gender, age and cultural background are factors of smell perception, as well as [[Odor adaptation]]. They also say that [[Scent]] notes are correlated with [[Pleasantness judgment]].
+
+ [[Olfaction (or smell)]] delivering methods in [[VR]] :
+- ubiquitous-type displays in which the [[Olfactory]] display is situated in the environment
+- wearable-type displays, which the user wears
+- Handled : embed OVR displays into various objects that can be used in VR systems, such as controllers that deliver the [[Scent]]
+[[Scent]] delivery methods :
+- Airflow vaporization
+- Heat vaporization
+- Atomization
+
+Application areas are listed, as well as projects : 45% used ubiquitous type, 48% wearable and the rest was handled. While 76% of works find that the sense of smell affects the sense of [[Presence]] in VR, 24% found no differences. Smell is not mandatory for the sense of [[Presence]]; instead, its sensations help to enhance it.
 
 ## Images
 

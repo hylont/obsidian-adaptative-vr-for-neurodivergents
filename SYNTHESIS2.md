@@ -88,7 +88,7 @@ Little et al came to the conclusion that sensory phenotypes are applicable to al
 - "gender can also affect sensitivity, as can age [11, 12]. Even culture can play a role as some cultures may be more receptive to certain smells than others" [11]
 - music can contribute to the perception of smell [11]
 - Studies on olfactory testing in [[ASD]]s have generally demonstrated a decrease in the ability to identify odors in people with [[ASD]] [12]
-- odor identification performances have been correlated with self-ratings of [[empathy]], one of the most clearly impaired cognitive functions in individuals with [[ASD]] [13]
+- odor identification performances have been correlated with self-ratings of [[Empathy]], one of the most clearly impaired cognitive functions in individuals with [[ASD]] [13]
 - three types of [[Olfactory]] display approaches that could be used in VR therapy treatments: [11]
 	- ubiquitous-type displays in which the [[Olfactory]] display is situated in the environment
 	- wearable-type displays, which the user wears
@@ -144,13 +144,97 @@ Little et al came to the conclusion that sensory phenotypes are applicable to al
 
 # 6 Hypotheses (Not supported by references)
 
-- As Bauer found, it's possible to create a taxonomy of smells (eg classify negative and positive smells + classify them in contexts) for neurodivergents, that can fit the vast majority of neurotypical preferences.
-- 
-- There is a pleasantness correlation between smells contexts and sounds contexts
+- As Bauer found for audio, it's possible to create a taxonomy of smells (eg classify negative and positive smells + classify them in contexts) for neurodivergents, that can fit the vast majority of neurotypical preferences.
+- The pleasantness of the smells will prevail on the visual and audio pleasantness
+- There is a pleasantness rating correlation between smells contexts and sounds contexts
 
 # 7 Protocols
 
 ## 7.1 Discomfort scenarios adaptator
+
+- 60 participants, 3 groups
+	- 20 neurotypicals that don't think they have an olfactory or an auditory sensitivity
+	- 20 neurotypicals that think they have an olfactory or an auditory sensitivity
+	- 20 neurodivergents (ASD, AAF, SPD)
+- 3 expositions : 4 olfactive with 0 or 4 audio stimuli per exposition (12 in total)
+- Ubiquitous (placed) or worn (shouldn't have influence)
+- All scents should only have 3 notes [11]
+- Room-scale movement, no teleportation : CAVE space
+- Rotating fan that triggers after each stimuli
+- At each booth, you get one odor spray that fits the booth visuals, you rate it then you go to the next booth
+	- You could also hear music ambiance that fits the booth (50% of every group) [11]
+	- Booths order is randomized and can be played only one time per exposition. All booths and stimulis belong to a Bauer's audio context
+	- if 3 consecutive booths with "negative" contexts [5] follow each other, a "positive" context booth will be placed between the negatives
+	- All odors triggers at the corners of the space at virtual booths
+	- When all booths are visited and stimuli triggered, the partipant will be placed in a neutral and low on stimuli scene. They choose to begin the next exposition when they want to.
+	- 20 seconds [source needed] after the olfactive stimuli is triggered, a success sound will play and the booth will fade away 
+	- Each booth should have a slowly moving object and no NPC visible
+
+![[Pasted image 20260108104037.png]]
+Possible booths, with possible grabbables that will trigger an olfactive stimuli when placed near the head. The grabbable will always at the center of the booth. 
+- School : White board, chairs, tables, posters
+	- velleda (alcohol-like smell)
+	- snack (orange, banana...)
+- City : with a small building, slowly moving cars
+	- fresh croissant
+	- small fuel tank (fuel smell)
+- Hairdresser : rotating barber-pole lights, with chairs, head baths and mirrors
+	- hair dryer (heat smell)
+	- shower head (severe humidity)
+- Bedroom : with toys, a plush, a earth globe rotating light, a bed and some decoration
+	- plush (lavender smell)
+	- sock (smelly cheese)
+- Nature : with trees, bushes and grass, moving small animals
+	- tree log (pine)
+	- dirt (mud / farm)
+
+For example, the participant could :
+- go to the upper left booth, based on nature
+- next the participant could go to the lower right one, based on city
+- the participant could go to the hairdresser-based booth
+- And finally the participant would go to the last visible booth : the bedroom 
+- Then the user could go to a "portal" placed at the center of the room, to go to the "break room"
+
+We consider the base smell intensity In, and we consider all olfactive stimuli to be sprayed the same amount of time. In will be increased or lowered based on user responses concerning a context.
+All audio stimuli are spatialized and only heard when near a booth. All ambiances are at -20 DBFS.
+
+Before expositions :
+- Context preferences rating [source needed]
+- With a audio headset, the user will rate similar ambiance musics, without visual, and rate their pleasantness
+- Global identity questions :
+	- Age 
+	- Genre
+
+[[Pervasive Developmental Disorder Not Otherwise Specified (PDD-NOS)]]
+
+DV :
+- Base odor detection ( In ) : n-butanol test [12]
+- Sniff amount
+- Sniff rate
+- Emotion recognition
+- Verbal reactions
+- Likert scale of pleasantness
+- Likert scale of intensity
+- If music : 
+	- Likert scale of pleasantess
+	- Likert scale of volume
+- Aborted the experience
+IV :
+- Booths order
+- Olfactive stimuli intensity (calibrated for a context, after each exposition)
+- Musical ambiance enabled at booths [11]
+
+After each exposition : 
+- Booths rating questionnaire
+
+After the expositions : 
+- Presence questionnaire [source needed]
+- Comfort questionnaire [source needed]
+- Usability questionnaire [source needed]
+- Qualitative interview 
+	- favorite booth
+	- favorite smell
+	- ...
 # 8 Sources
 
 [1] : Diagnostic and statistical manual of mental disorders: DSM-5, 2013

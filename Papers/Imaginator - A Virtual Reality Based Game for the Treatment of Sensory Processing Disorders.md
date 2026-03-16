@@ -62,6 +62,14 @@ OT = Occupational Therapist
 >it could be interesting to allow the therapist to control not only if the sound is on or off, but also its volume, or even what sound effect should be associated to a given event 
 
 >that besides being able to stimulate five different senses, it was very motivating to patients, which is a factor of great importance in the treatment 
+
+# Synthesis
+
+In this paper the authors try to treat [[Sensory processing Disorder (SPD)]] with a custom made VR experience with minigames.
+The only interactions were with eye gaze (not eye-tracking) and the VE could be deactivated.
+They state that when [[Presence]] is enhanced, so are the ecological behaviors. It is worth noting that the vestibular, proprioceptive, visual, tactile and auditory senses were being stimulated.
+The results were promising, even though after a few exposures, the motivation lacked
+
 ## Images
 
 ![[RossiImaginator.png]]

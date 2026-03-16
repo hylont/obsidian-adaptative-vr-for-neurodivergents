@@ -2,7 +2,7 @@
 author: Scheerer et al
 year: "2021"
 keyword1: "[[Sensory processing]]"
-keyword2: "[[Sensory phenotypes]]"
+keyword2: "[[Sensory subtypes (or phenotypes)]]"
 keyword3: "[[Clustering]]"
 keyword4: "[[ASD]]"
 keyword5: "[[Adaptative behaviour]]"
@@ -40,6 +40,15 @@ Then were identified 3 [[Sensory phenotypes]] :
 >the [[Under-Responsive and Sensory Seeking (URSS)]] and [[Movement and Low Energy-Weakness (M-LEW)]] [[Sensory phenotypes]] showed poor adaptive functioning, suggesting that [[Autistic]] individuals who demonstrate particularly high levels of under-responsivity and sensory seeking, movement difficulties, and low energy, may be those who will benefit most from [[Environments]] that support these sensory differences
 
 >grouping [[Autistic]] individuals by these [[Sensory phenotypes]] could allow for more focused interventions that target the sensory domains, and behaviors, that present the most difficulty for those individuals
+
+# Synthesis
+
+Using a large database of people with underdevelopmental disorders, the authors classified them in 5 [[Sensory phenotypes]] :
+- [[Sensory adaptative (SA)]] (25%)
+- [[Generalized Sensory Differences (GSD)]] (16%)
+- [[Taste and Smell Sensitivity (TSS)]] (21%)
+- [[Under-Responsive and Sensory Seeking (URSS)]] (23%)
+- [[Movement and Low Energy-Weakness (M-LEW)]] (16%)
 ## Images
 
 ![[ScheererAllPhenotypes.png]]

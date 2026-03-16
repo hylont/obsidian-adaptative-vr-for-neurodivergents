@@ -62,6 +62,12 @@ Success at replicating an avatar's gesture
 
 >it is possible to obtain biomarkers for [[ASD]] classification using a CP paradigm based on implicit brain processes, measured through psychophysiological signals and the subjects’ behavior, while exposed to complex social conditions using VR interfaces
 
+# Synthesis
+
+This paper investigates whether it's possible to create a VR [[ASD]] test with [[Ecologically valid settings]], because the authors state that laboratory interviews tests suffer from Social Desirability.
+To evaluate it, authors measure social gesture recognition in different visual environments, and with different stimuli (audio, visual, olfactive). However they found that the amount of stimuli did not play a significant role in performance.
+They also state that [[ASD]] children show hyper-sensitiveness (overresponsiveness) to VA stimuli and hypo-sensitiveness (underresponsiveness) to olfactive stimuli
+
 # Images
 
 ![[Pasted image 20251202104242.png]]

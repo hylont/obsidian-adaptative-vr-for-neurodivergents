@@ -4,7 +4,7 @@ year: "2021"
 see: "[[ASSESSMENT OF SENSORY ABNORMALITIES IN CHILDREN WITH ASD USING VIRTUAL REALITY (Preview)]]"
 doi: " 10.1109/TNSRE.2021.3064148"
 ---
-	## Objectives
+## Objectives
 
 >explore if [[Virtual Reality]]  has the potential to be used specifically as a tool to evaluate the special [[Sensory processing pattern]] in children with [[ASD]]. 
 
@@ -40,12 +40,18 @@ doi: " 10.1109/TNSRE.2021.3064148"
 
 >This behavior would make the participants felt less touch resistant and should be checked to see if it was related to touch sensation [[Avoidance]]. 
 
->The negative correlation between sensation seeking and FoD means participants with higher sensation [[Seeking]] behaviors tended to fi their gaze less on the distractions, indicating that the rotating objects were not what they seek to watch. The positive correlation between sensation [[Avoidance]] and SacD means participants with higher sensation [[Avoidance]] behaviors tended to have longer quick eye gaze shifting, possibly due to moving their gaze away from uncomfortable visual [[Stimuli]]. 
+>The negative correlation between sensation seeking and FoD means participants with higher sensation [[Seeking]] behaviors tended to fix their gaze less on the distractions, indicating that the rotating objects were not what they seek to watch. The positive correlation between sensation [[Avoidance]] and SacD means participants with higher sensation [[Avoidance]] behaviors tended to have longer quick eye gaze shifting, possibly due to moving their gaze away from uncomfortable visual [[Stimuli]]. 
 ## Conclusion
 
 >the more sensitive the participants were, the more they looked at the distractions. 
 
 >Moreover, SAVR identifies more significant differences between the two groups than the [[Adult-Adolescent Sensory Profile (AASP)]], suggesting that a [[Virtual Reality]] based system may have better assessment sensitivity than a traditional questionnaire that relies upon adolescent or parent awareness of [[Sensory processing]]. 
+
+# Synthesis
+
+In this study, the writers try to find a correlation between their SAVR system and the [[Sensory processing pattern]]s, a "maze-painting" 3d software with visual distractors and controlled by a haptic robot. 
+It is worth noting that the [[ASD]] adolescents were more carefull about their movement and precision, which can be a [[Avoidance]] pattern. Also, contrary to the Avoidance ones, [[Seeking]] adolescents had significantly higher eye movements, almost resembling [[ADHD]].
+
 ## Images
 
 ![[KoiralaSAVR.png]]

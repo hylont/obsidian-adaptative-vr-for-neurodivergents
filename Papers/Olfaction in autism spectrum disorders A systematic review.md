@@ -58,3 +58,14 @@ keyword4: Smell
 
 >Furthermore, especially in childhood and low-functioning conditions, individuals with [[ASD]]s are often unable to explain their distress, meaning that parents and caregivers cannot organize the sensory environment around their needs in order to minimize the chances of that distress occurring.
 >Specific psychoeducational strategies such as storytelling, comic strip conversations, themes of normalizing, and describing responses can be used and developed to help people with [[ASD]]s share and process their sensory experiences
+
+# Synthesis
+
+This paper reviews numerous papers about the [[Olfactory]] perception of [[ASD]] populations.
+They have generally demonstrated a decrease in the ability to identify odors in people with [[ASD]]s, but it's possible that they struggle with [[Pleasantness judgment]].
+Better performance on sorting tasks have also been documented with pleasant smells (Orange)
+Also, [[ASD]]s tend to have more significant heart rate changes when an olfactive stimulus appears.
+
+They explain that a test called the Odor Threshold Test, which consists at pinpointing at which n-butanol concentration a participant starts to smell the stimuli can serve as a calibration tool.
+
+Unusual ways of communication should be used to help participants explain their reactions.

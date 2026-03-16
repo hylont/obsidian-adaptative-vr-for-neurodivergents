@@ -63,6 +63,13 @@ keyword4: "[[User-Centred Design]]"
 # Conclusion
 
 >Results showed that VR with an anthropocentric focus can promote activity engagement and learning in dyscommunicative autistic people. The results also highlight the need to design and offer immersive environments specifically tailored to the psycho-sensory needs of the end users, in this case young adults with autism.
+
+# Synthesis
+
+This study tries to monitor the reception of [[Olfactory]] stimuli to severe [[ASD]] populations with communication disorders.
+Using a Olfy system, they created a supermarket environment with [[Scent]]s diffusions when objects are brought near the real head.
+Participants were receptive : they used verbatims, facial expressions and gestures of pleasure ([[Pleasantness judgment]])
+
 # Images
 
 ![[LacoteCoquereauEnvironment.png]]

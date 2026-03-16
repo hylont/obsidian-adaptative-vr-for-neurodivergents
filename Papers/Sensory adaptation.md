@@ -41,7 +41,7 @@ doi: 10.1016/j.conb.2007.07.001
     
 - Cross-modal plasticity (blind individuals enhancing audition/touch)
 
-## Auto-conclusion
+## Auto-Synthesis
 
 The authors conclude that:
 
