@@ -46,7 +46,7 @@ Significant improvement in [[Anxiety]]
 >improvements in anxiety and depression from pre to post, with changes in sensory processing, but no significant changes in adaptive behaviour or personal wellbeing. 
 ## Conclusion
 
->It could be hypothesised that a [[VR]] [[sensory room]] may impact [[anxiety]], [[depression]] and [[Sensory processing]] in the short term. 
+>It could be hypothesised that a [[VR]] [[sensory room]] may impact [[Anxiety]], [[depression]] and [[Sensory processing]] in the short term. 
 
 # Synthesis
 

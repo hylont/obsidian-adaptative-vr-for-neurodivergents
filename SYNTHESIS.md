@@ -4,7 +4,7 @@
 ## Defining [[Neurodivergent]]s
 
 - ### [[ASD]]
-	- [[DSM-5]]
+	- DSM-5
 	- [[Low-functioning autism (LFA)]]
 	- [[High-functioning autism (HFA)]]
 
@@ -25,10 +25,10 @@ neurodivergents ONLY with sensory perception disorders > reference a paper
 
 ### [[Sensory profiles]]
 
-### [[Neurodivergent]]s and [[Olfaction (or smell)]]
+### [[Neurodivergent]]s and [[Olfaction]]
 
 
-### [[Neurodivergent]]s and [[Hearing]]
+### [[Neurodivergent]]s and hearing
 
 - Mesophonia
 - Phonophobia

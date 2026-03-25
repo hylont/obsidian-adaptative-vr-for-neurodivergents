@@ -1,9 +1,41 @@
-
+Exploring unadapted olfactive stimuli's impact on performance, usability and satisfaction in immersive environments for all neurodiverse users
 # Protocol creation:
-
+- Variables :
+	- Independent :
+		- Order of scenari : within subject (even subjects ID try A then B, odds try B then A)
+		- Scenario A :
+			- Intensity (?) of stimuli
+			- Order of stimuli
+			- visual distractors placement
+	- Dependent :
+		- Adapted scents concentrations (mild, medium, strong)
+		- Neurodivergence profile
+- Before beginning the experience, we need to know what are mild, correct and strong scent concentrations :
+	- All participants must try various concentrations of n-butanol to point out which one is the most pleasant according to their preferences. ([[Odor Intensity and pleasantness for a diverse set of odorants]])
+	- For each one of the ? (at least 3, 6 would be ideal) flavors, 5 concentrations must be available (low, medium-low, medium, medium-high, high) (source ?) (pre-study needed !!!)
+- Pas de feedback haptique ([[Investigation into Stress Triggers in Autistic Adults for the Development of Technological Self-Interventions]])
+- Comment terminer une tâche :
+	- Bouton "quitter d'urgence" ([[Investigation into Stress Triggers in Autistic Adults for the Development of Technological Self-Interventions]])
+	- Fin du scénario
 ## Things to answer before:
-- 
+- [x] Trouver plusieurs scénarios de tâches adaptées aux neuroa [[Designing virtual reality tools for students with Autism Spectrum Disorder A systematic review]]
+	- Distractors [[The impact of visual and auditory distractions on the performance of neurodiverse students in virtual reality (VR) environments]] : 3 corners of the room (one for each flavor), the participant grabs an item that will diffuse a scent, then the participant has to find the distractors like in the mentioned experiment. 6 or 9 expositions (2 mild, 2 medium, 2 high at random)
+	  Can't make too much expositions due to odor adaptation that will decrease odor detection and perceived intensity ([[Psychophysical and Behavioral Characteristics of Olfactory Adaptation]])
+	- Supermarché [[Virtual Reality and Autism Spectrum Disorder - Emergence of Sensory-Motor and Olfactory Potentialities in an Anthropocentric Epistemological Approach]], Bozgeyikli et al. (2017)
+	  In a shop, do groceries freely (more info needed)
+- [ ] Trouver les différents paramètres olfactifs
+	- [ ] Intensité (par rapport à du n-buthanol ?) [[Odor Intensity and pleasantness for a diverse set of odorants]]
+- [ ] Si impact, trouver les questionnaires
+	- [ ] Satisfaction (scenario B)
+	- [ ] Performance (scénario A)
+	- [ ] Cognitive / sensory load
+	- [ ] Utilisabilité (scénario B)
+	- [ ] Performance (scénario A) ([[Olfaction in autism spectrum disorders A systematic review]])
+	- [ ] [[Presence]] ([[A Review of Olfactory Display Designs for Virtual Reality Environments]]) => secondaire selon Guillaume
 ## Hypotheses
+
+Quelque-soit la tâche donnée, les stimulis trop discrets auront un impact négatif sur l'utilisabilité perçue
+Quelque-soit la tâche donnée, les stimulis olfactifs trop puissants auront un impact négatif sur la satisfaction (et le confort) utilisateur
 ## Research Questions:
 
 - [ ] RQ1 : Quels paramètres décrivent un stimulus olfactif ?

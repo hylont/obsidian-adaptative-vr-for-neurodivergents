@@ -4,7 +4,7 @@ year: "2016"
 doi: 10.1186/s13229-016-0070-3
 keyword1: "[[ASD]]"
 keyword2: "[[Hyperresponsiveness]]"
-keyword3: "[[Olfaction (or smell)]]"
+keyword3: "[[Olfaction]]"
 keyword4: "[[Suprathreshold detection]]"
 ---
 # Background
@@ -15,7 +15,7 @@ keyword4: "[[Suprathreshold detection]]"
 
 >the ratings of intensity, pleasantness, familiarity, and edibility are different olfactory judgments that require activation from perceptual to semantic representations [24, 25]
 
->Emotion and pleasantness judgment are primary facets of [[Olfaction (or smell)]] [29], and the pleasantness judgment is commonly used to rate subjective emotional experience
+>Emotion and pleasantness judgment are primary facets of [[Olfaction]] [29], and the pleasantness judgment is commonly used to rate subjective emotional experience
 
 >Moreover, odor identification performances have been correlated with self-ratings of [[Empathy]] [18], one of the most clearly impaired cognitive functions in individuals with [[ASD]]
 # Objectives

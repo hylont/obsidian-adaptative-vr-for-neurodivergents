@@ -63,7 +63,7 @@ doi: 10.2312/egve.20251345
 
 This study tries to find if [[Scent]]s delivered by a robot have better results that typical [[Olfactory]] devices.
 There were only 14 participants. They found that too intense scents had a negative impact on [[Pleasantness judgment]] and identification.
-In their protocol, they also made sure to avoid [[Odor adaptation]]
+In their protocol, they also made sure to avoid [[Olfactory adaptation]]
 
 ## Images
 

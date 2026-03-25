@@ -1,17 +1,21 @@
 ---
 author: Jordan Tewell
-year: "2024"
+year: 2024
 doi: 10.1145/3665243
 keyword1: "[[VR]]"
-keyword2: "[[Olfaction (or smell)]]"
+keyword2: "[[Olfaction]]"
 keyword3: "[[Presence]]"
 keyword4: "[[Immersion]]"
 keyword5: "[[Multisensory]]"
 keyword6: "[[Olfactive VR]]"
 ---
+# Links
+
+[[Scent]]
+[[Cybersickness]]
 ## Definitions and quotes
 
->the sense of [[Olfaction (or smell)]] is more challenging to deliver accurately. Whereas vision, audio, and even haptics are relatively easy to codify in digital form (e.g., based on frequency spectrums) and present to users, there are significant challenges with coding smells and delivering them via [[Olfactory]] displays, mainly due to the chemical nature of the sense.
+>the sense of [[Olfaction]] is more challenging to deliver accurately. Whereas vision, audio, and even haptics are relatively easy to codify in digital form (e.g., based on frequency spectrums) and present to users, there are significant challenges with coding smells and delivering them via [[Olfactory]] displays, mainly due to the chemical nature of the sense.
 
 >A visual stimulus can be characterized by its wavelength, which can be easily encoded as a combination of red, green, and blue values. An audio stimulus can be similarly described in terms of its wavelength and frequency, which can be sampled and converted to binary. A vibrotactile stimulus is similar to a sound stimulus in that its wavelength and frequency can also be sampled for binary storage. However, there is no general theory on how smell can be similarly sampled and encoded in binary format, as there is no simple analogy to the waveforms that characterize the other senses.
 
@@ -23,6 +27,7 @@ keyword6: "[[Olfactive VR]]"
 >For instance, the degree of complexity in a [[Scent]] can be influenced by the balance of [[Scent]] notes, the number of [[Scent]] notes, and the intensity of each note. When delivering [[Olfactory]] information through a technical framework, the other sensory information should also be considered to handle the sensory influences. For example, music can contribute to the perception of smell
 
 >necessary steps must be taken to reduce delays, as non-synchronized sensory information might cause uncomfortable conditions, including nausea
+
 [[Cybersickness]]
 
 >One method is to use variables to control the intensity of the [[Scent]] being released, for example, based on the distance between the user and the source of the [[Scent]]. If the user is close to the source of a strong smell, then the software could instruct the OVR display to release a higher concentration of the [[Scent]]
@@ -55,7 +60,7 @@ keyword6: "[[Olfactive VR]]"
 - VR Cinema. VR cinema can benefit from OVR technology in many different areas, such as in movies, documentaries, and advertisements
 - Health. Smell has been used extensively in the area of aromatherapy to treat mood disorders such as [[Anxiety]] and [[Depression]] [106], [[Sleep disorders]] [70], and nausea [103]. VR has also been applied to health-related areas, primarily mental health, as a form of virtual therapy, for instance, to mediate pain [80] and in exposure therapy ... OVR research has examined applications in rehabilitation [39], eating behaviors [108], and relaxation
 - Education and training : multisensory serious games that aid in firefighter training
-- V-Commerce : tourist agents can use smell and VR to help clients experience virtual destinations that are truly [[Multisensory]]al. Research with OVR tourism has shown smell can influence consumer travel recommendations [81] and increase the sensation of walking while touring a virtual destination
+- V-Commerce : tourist agents can use smell and VR to help clients experience virtual destinations that are truly [[Multisensory]]. Research with OVR tourism has shown smell can influence consumer travel recommendations [81] and increase the sensation of walking while touring a virtual destination
 - Perception. OVR perception is an extensive research area that examines the efficacy of utilizing the sense of smell as an immersive technology and its effect on human behavior
 - Engineering. Engineering applications investigate potential OVR mechanical and hardware designs and provide performance evaluation of those technologies
 
@@ -96,10 +101,10 @@ keyword6: "[[Olfactive VR]]"
 
 # Synthesis
 
-First, this review paper emphasizes that allowing [[Olfaction (or smell)]] to be reproductible is difficult, as there is no way of encoding a smell. However they state that a smell is characterized by its [[Smell intensity]] and Smell duration.
-They also state that Gender, age and cultural background are factors of smell perception, as well as [[Odor adaptation]]. They also say that [[Scent]] notes are correlated with [[Pleasantness judgment]].
+First, this review paper emphasizes that allowing [[Olfaction]] to be reproductible is difficult, as there is no way of encoding a smell. However they state that a smell is characterized by its [[Smell intensity]] and Smell duration.
+They also state that Gender, age and cultural background are factors of smell perception, as well as [[Olfactory adaptation]]. They also say that [[Scent]] notes are correlated with [[Pleasantness judgment]].
 
- [[Olfaction (or smell)]] delivering methods in [[VR]] :
+ [[Olfaction]] delivering methods in [[VR]] :
 - ubiquitous-type displays in which the [[Olfactory]] display is situated in the environment
 - wearable-type displays, which the user wears
 - Handled : embed OVR displays into various objects that can be used in VR systems, such as controllers that deliver the [[Scent]]

@@ -8,41 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "734c0200299be34c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
-            }
-          },
-          {
-            "id": "45de91b52c5fc2f3",
+            "id": "5177100151a43558",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/Olfactory Nomenclature - An Orchestrated Effort to Clarify Terms and Definitions of Dysosmia.md",
+                "file": "SYNTHESIS.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Olfactory Nomenclature - An Orchestrated Effort to Clarify Terms and Definitions of Dysosmia"
+              "title": "SYNTHESIS"
             }
           },
           {
-            "id": "ad292c00ea952ff9",
+            "id": "9942247530578102",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROTOCOL1.md",
+                "file": "Virtual Reality.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "PROTOCOL1"
+              "title": "Virtual Reality"
             }
           },
           {
@@ -51,12 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/Exploring Multisensory Extended Reality Approaches for Autistic Children - Improve Well-Being and Assess Auditory Perception.md",
+                "file": "Virtual Reality.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Exploring Multisensory Extended Reality Approaches for Autistic Children - Improve Well-Being and Assess Auditory Perception"
+              "title": "Virtual Reality"
             }
           },
           {
@@ -67,14 +60,15 @@
               "state": {
                 "file": "Papers/The impact of visual and auditory distractions on the performance of neurodiverse students in virtual reality (VR) environments.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "The impact of visual and auditory distractions on the performance of neurodiverse students in virtual reality (VR) environments"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,15 +100,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "VR",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
@@ -127,11 +121,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 297.504695892334
   },
   "right": {
     "id": "0e1dc361b5971035",
@@ -147,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYNTHESIS2.md",
+                "file": "Virtual Reality.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SYNTHESIS2"
+              "title": "Rétrolien pour Virtual Reality"
             }
           },
           {
@@ -203,14 +198,23 @@
               "icon": "lucide-list",
               "title": "Outline of Classifying sensory profiles of children in the general population"
             }
+          },
+          {
+            "id": "42d3d8d50d88575b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,47 +224,49 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false
+      "bases:Créer une nouvelle base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45de91b52c5fc2f3",
+  "active": "81b4a994295b4ce0",
   "lastOpenFiles": [
-    "Papers/A Process-Model for Minimizing Adverse Effects when Using Head Mounted Display-Based Virtual Reality for Individuals with Autism.md",
-    "attachments/Pasted image 20260316214924.png",
-    "Papers/TODO/A narrative review of immersive virtual reality’s ergonomics and risks at the workplace - cybersickness, visual fatigue, muscular fatigue, acute stress, and mental overload.md",
-    "Papers/Measuring Visual Fatigue and Cognitive Load via Eye Tracking while Learning with Virtual Reality Head-Mounted Displays - A Review.md",
-    "Papers/Predicting virtual reality discomfort.md",
-    "Papers/TODO/Virtual Reality and Symptoms Management of Anxiety, Depression, Fatigue, and Pain- A Systematic Review.md",
-    "Papers/TODO/Overcoming the information overload problem in a multiform feedback-based virtual reality system for hand motion rehabilitation - healthy subject case study.md",
-    "Papers/TODO/Exploring the Effects of Visual and Auditory Distractors in Virtual Reality on Perceived Cognitive Load and Cognitive Alertness.md",
-    "Papers/TODO/Attention to novelty versus repetition - Contrasting habituation profiles in Autism and Williams syndrome.md",
-    "PROTOCOL1.md",
-    "Papers/Virtual Reality and Autism Spectrum Disorder - Emergence of Sensory-Motor and Olfactory Potentialities in an Anthropocentric Epistemological Approach.md",
-    "Visual fatigue.md",
-    "Cognitive load.md",
-    "attachments/Pasted image 20260316182556.png",
-    "attachments/Pasted image 20260316182402.png",
-    "Papers/_EXAMPLE.md",
-    "Papers/A Preliminary Exploration of Virtual Reality-Based Visual and Touch Sensory Processing Assessment for Adolescents With Autism Spectrum Disorder.md",
-    "Olfaction (or smell).md",
-    "Papers/A Review of Olfactory Display Designs for Virtual Reality Environments.md",
-    "Papers/Exploring Multisensory Extended Reality Approaches for Autistic Children - Improve Well-Being and Assess Auditory Perception.md",
+    "VR.md",
+    "Papers/Designing virtual reality tools for students with Autism Spectrum Disorder A systematic review.md",
+    "Virtual Reality.md",
+    "SYNTHESIS.md",
     "Papers/The impact of visual and auditory distractions on the performance of neurodiverse students in virtual reality (VR) environments.md",
-    "Empathy.md",
-    "attachments/Pasted image 20260312145301.png",
-    "Papers/Sensory adaptation.md",
-    "Papers/Virtual reality and stimulation of touch and smell for inducing relaxation - A randomized controlled trial.md",
-    "Papers/Olfaction in autism spectrum disorders A systematic review.md",
-    "Papers/Odor Intensity and pleasantness for a diverse set of odorants.md",
+    "Hearing.md",
+    "Papers/A Review of Olfactory Display Designs for Virtual Reality Environments.md",
+    "Papers/A Preliminary Exploration of Virtual Reality-Based Visual and Touch Sensory Processing Assessment for Adolescents With Autism Spectrum Disorder.md",
     "Papers/A Mechanistic Link between Olfaction and Autism Spectrum Disorder.md",
-    "Papers/Imaginator - A Virtual Reality Based Game for the Treatment of Sensory Processing Disorders.md",
+    "PROTOCOL1.md",
+    "Papers/A Process-Model for Minimizing Adverse Effects when Using Head Mounted Display-Based Virtual Reality for Individuals with Autism.md",
+    "Olfaction.md",
+    "Olfactory.md",
+    "Pleasantness judgment.md",
+    "Anxiety.md",
+    "Papers/_EXAMPLE.md",
+    "Papers/Olfactory Nomenclature - An Orchestrated Effort to Clarify Terms and Definitions of Dysosmia.md",
+    "Autistic.md",
+    "Papers/TODO/Psychophysical and Behavioral Characteristics of Olfactory Adaptation.md",
+    "attachments/Pasted image 20260323170609.png",
+    "attachments/Pasted image 20260323170534.png",
+    "Papers/Exploring Multisensory Extended Reality Approaches for Autistic Children - Improve Well-Being and Assess Auditory Perception.md",
+    "Papers/Virtual Reality and Autism Spectrum Disorder - Emergence of Sensory-Motor and Olfactory Potentialities in an Anthropocentric Epistemological Approach.md",
+    "Olfactory adaptation.md",
+    "Papers/TODO/A narrative review of immersive virtual reality’s ergonomics and risks at the workplace - cybersickness, visual fatigue, muscular fatigue, acute stress, and mental overload.md",
+    "Papers/TODO/Attention to novelty versus repetition - Contrasting habituation profiles in Autism and Williams syndrome.md",
+    "Papers/TODO/Exploring the Effects of Visual and Auditory Distractors in Virtual Reality on Perceived Cognitive Load and Cognitive Alertness.md",
+    "Papers/TODO/Overcoming the information overload problem in a multiform feedback-based virtual reality system for hand motion rehabilitation - healthy subject case study.md",
+    "attachments/Pasted image 20260319175056.png",
+    "attachments/Pasted image 20260319174909.png",
+    "attachments/Pasted image 20260319174853.png",
+    "attachments/Pasted image 20260319172701.png",
+    "attachments/Pasted image 20260319172637.png",
+    "attachments/Pasted image 20260319171221.png",
+    "attachments/Pasted image 20260319170012.png",
+    "attachments/LacoteCoquereauEnvironment.png",
     "Papers/TODO",
-    "attachments/Pasted image 20260126094609.png",
-    "attachments/Pasted image 20260105151609.png",
-    "attachments/Pasted image 20260123172918.png",
-    "attachments/Pasted image 20260123143934.png",
-    "attachments/Pasted image 20260123143906.png",
-    "attachments/Pasted image 20260123143840.png",
     "Papers/TODO",
     "Articles",
     "Untitled.base",

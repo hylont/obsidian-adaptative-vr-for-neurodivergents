@@ -1,11 +1,12 @@
 ---
 author: Matthew Schmidt
-year: "2021"
+year: 2021
 doi: 10.3389/frvir.2021.611740
 keyword1: "[[ASD]]"
 keyword2: "[[Virtual Reality]]"
 keyword3: "[[Cybersickness]]"
 ---
+[[Anxiety]]
 # Introduction
 
 >“However, a widely-acknowledged concern related to using HMD-based VR is the potential that users will experience some degree of adverse effects (Palmisano et al., 2017). By adverse effects, we refer to negative effects including cybersickness (e.g., nausea, eye-strain, etc.), safety concerns (e.g., stumbling and falling), increased anxiety, sensory disturbances, etc. (cf. Kellmeyer, 2018).” (Schmidt et al., 2021, p. 2)
@@ -54,7 +55,7 @@ Based on two recently published studies, stakeholders and ethical comitees
 >“The focus in the current article on adverse effects of HMD-based VR for individuals with ASD rests on the basis of ethical guidelines published in our respective research contexts, including but not limited to those of BERA (British Educational Research Association, 2018), AERA (American Educational Research Association, 2011), and BACB (Behavior Analyst Certification Board, 2014)” (Schmidt et al., 2021, p. 11)
 # Synthesis
 
-In this paper, the authors used their personnal experiences, advises from asd stakeholders and ethcial comitees to create a staged-based VR experience design guidelines
+In this paper, the authors used their personnal experiences, advises from asd stakeholders and ethical comitees to create a staged-based VR experience design [[Guidelines]]
 Based on 4 stages, it requires to create the experience with cautious and frequent pov from asd stakeholders, to rehearse protocols with them in true conditions to evaluate the space and procedure, next the participant is asked for informed and clear consent before trying out the hardware without putting the HMD on, next the experience can begin with extreme attention for any sign that the participant is uncomfortable.
 # Images
 

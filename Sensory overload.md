@@ -1,0 +1,2 @@
+[[Sensory overload in a shopping environment - Not every sensory modality leads to too much stimulation]]
+>“Sensory overload refers to a situation where individuals are unable to process the input stimuli, leading to negative consequences like confusion, frustration and withdrawal (Malhotra, 1984).” (Doucé and Adams, 2020, p. 2)

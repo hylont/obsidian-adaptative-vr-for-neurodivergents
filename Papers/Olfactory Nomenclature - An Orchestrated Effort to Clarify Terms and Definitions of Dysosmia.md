@@ -2,7 +2,7 @@
 author: Anna Kristina Hernandez
 year: "2023"
 doi: 10.1159/000530211
-keyword1: "[[Olfaction (or smell)]]"
+keyword1: "[[Olfaction]]"
 keyword2: "[[Anosmia]]"
 keyword3: "[[Hyposmia]]"
 keyword4: "[[Parosmia]]"

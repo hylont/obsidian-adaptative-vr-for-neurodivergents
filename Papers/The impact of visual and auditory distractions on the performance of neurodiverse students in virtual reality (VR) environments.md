@@ -1,6 +1,6 @@
 ---
 author: Ibrahim Dahlstrom-Hakki et al
-year: "2024"
+year: 2024
 keyword1: "[[Neurodiverse]]"
 keyword2: "[[Virtual Reality]]"
 keyword3: "[[Autism]]"

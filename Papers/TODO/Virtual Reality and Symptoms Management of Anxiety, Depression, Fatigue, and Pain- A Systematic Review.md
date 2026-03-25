@@ -1,6 +1,6 @@
 ---
 author: Androniki Ioannou
-year: "2019"
+year: 2019
 doi: 10.1177/2377960820936163
 keyword1: "[[Virtual Reality]]"
 keyword2: "[[Anxiety]]"

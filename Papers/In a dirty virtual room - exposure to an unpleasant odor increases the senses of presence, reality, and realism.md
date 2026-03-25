@@ -4,7 +4,7 @@ year: "2022"
 doi: 10.1080/23311908.2022.2115690
 keyword1: "[[Virtual Reality]]"
 keyword2: "[[Presence]]"
-keyword3: "[[Olfaction (or smell)]]"
+keyword3: "[[Olfaction]]"
 ---
 [[Pleasantness judgment]]
 [[Smell intensity]]
@@ -116,7 +116,7 @@ keyword3: "[[Olfaction (or smell)]]"
 
 # Synthesis
 
-In, this paper, the authors try to prove that [[Presence]], [[Reality]] and [[Realism]] are affected by [[Olfaction (or smell)]]
+In, this paper, the authors try to prove that [[Presence]], [[Reality]] and [[Realism]] are affected by [[Olfaction]]
 However, they found that only unpleasant smells increased [[Presence]] and [[Realism]]. It could be correlated to higher olfactory detection in unpleasant condition.
 They ask themselves with it wasn't the case with pleasant odors : 
 >“Is the pleasant odor’s lack of effect on Presence related to a lower conscious detection rate, a low visual/ olfactory concordance, or does a pleasant odor simply have only minimal effect on Presence in VR?”

@@ -3,7 +3,7 @@ author: Berenice Serrano
 year: "2016"
 doi: 10.1016/j.chb.2015.08.007
 keyword1: "[[Virtual Reality]]"
-keyword2: "[[Olfaction (or smell)]]"
+keyword2: "[[Olfaction]]"
 keyword3: "[[Augmented Virtuality]]"
 ---
 >“The main objectives of this study are to test, in a controlled study, the efficacy of this VR-MIP to induce relaxation and sense of [[Presence]], and to analyze whether the stimulation of the senses of touch and smell improves the efficacy of this VR-MIP in inducing relaxation and sense of [[Presence]].” (Serrano, p. 2)

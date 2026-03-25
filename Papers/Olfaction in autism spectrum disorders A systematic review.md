@@ -4,7 +4,7 @@ year: "2015"
 doi: 10.1080/09297049.2015.1081678
 keyword1: "[[ASD]]"
 keyword2: "[[Autism]]"
-keyword3: "[[Olfaction (or smell)]]"
+keyword3: "[[Olfaction]]"
 keyword5: "[[Neurodevelopmental disorders]]"
 keyword4: Smell
 ---

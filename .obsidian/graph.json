@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "olfaction",
+  "search": "vr",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 12.1453287197232,
   "linkStrength": 1,
   "linkDistance": 208,
-  "scale": 0.724373477950338,
+  "scale": 0.7055465603264875,
   "close": false
 }
