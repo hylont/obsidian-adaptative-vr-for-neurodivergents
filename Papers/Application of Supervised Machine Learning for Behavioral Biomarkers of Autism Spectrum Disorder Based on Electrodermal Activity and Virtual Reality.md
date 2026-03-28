@@ -1,12 +1,13 @@
 ---
 author: Mariano Alcaniz Raya
-year: "2020"
+year: 2020
 doi: 10.3389/fnhum.2020.00090
 keyword1: "[[ASD]]"
-keyword2: "[[VR]]"
+keyword2: "[[Virtual Reality]]"
 keyword3: "[[Sensory processing]]"
 keyword4: "[[Electrodermal activity (EDA)]]"
 ---
+
 # Background
 
 >[[ADOS]]’ unreliable outcomes and affect the truthfulness of responses is the social desirability bias (Paulhus, 1991). Social desirability is a response bias in which individuals attempt to answer to tasks or questions in a manner that will be viewed as favorable by others (Edwards, 1957)
@@ -21,10 +22,10 @@ keyword4: "[[Electrodermal activity (EDA)]]"
 
 >The evidence from these studies are controversial: some research found no differences in [[Electrodermal activity (EDA)]] levels in response to sensory stimuli (e.g., Zahn et al., 1987; Rogers and Ozonoff, 2005; McCormick et al., 2014), whereas other studies were successful (van Engeland et al., 1991; Miller et al., 2001; Rogers and Ozonoff, 2005; Schoen et al., 2009).
 
->The use of [[VR]] in [[ASD]] research has been postulated as one of the methods with great potential in the treatment of the main symptomatological nucleus (Wing et al., 2011; Parsons T. D., 2016; Golestan et al., 2018)
+>The use of [[Virtual Reality]] in [[ASD]] research has been postulated as one of the methods with great potential in the treatment of the main symptomatological nucleus (Wing et al., 2011; Parsons T. D., 2016; Golestan et al., 2018)
 # Objectives
 
->no one has investigated whether multimodal [[VR]] settings and EDA reactions might contribute to predicting [[ASD]] population versus [[Typically developed (TD)]] children. Starting from these premises, we performed two studies (the first exploratory and the second confirmatory) to discriminate and predict sensory processing in the [[ASD]] population versus in a [[Typically developed (TD)]] population through the combined use of implicit measure (EDA) and different sensory stimuli, involving two different [[Virtual environment]] and tasks. To this extent, the first experiment aimed to analyze the influence of three factors in predicting [[ASD]]: (1) the VE contents, one VE including a relaxing environment and another one including an [[Arousal]] environment; (2) the task, one related to the subject’s greeting responses in the relaxing environment and others related to the subject’s imitation in the arousal environment; and (3) the stimuli conditions (SC), including visual (V), visual and auditive (VA), and visual, auditive, and olfactive stimuli (VAO)
+>no one has investigated whether multimodal [[Virtual Reality]] settings and EDA reactions might contribute to predicting [[ASD]] population versus [[Typically developed (TD)]] children. Starting from these premises, we performed two studies (the first exploratory and the second confirmatory) to discriminate and predict sensory processing in the [[ASD]] population versus in a [[Typically developed (TD)]] population through the combined use of implicit measure (EDA) and different sensory stimuli, involving two different [[Virtual environment]] and tasks. To this extent, the first experiment aimed to analyze the influence of three factors in predicting [[ASD]]: (1) the VE contents, one VE including a relaxing environment and another one including an [[Arousal]] environment; (2) the task, one related to the subject’s greeting responses in the relaxing environment and others related to the subject’s imitation in the arousal environment; and (3) the stimuli conditions (SC), including visual (V), visual and auditive (VA), and visual, auditive, and olfactive stimuli (VAO)
 
 >Starting from these premises and aims, the first hypothesis in experiment 1 was that the [[ASD]] recognition is higher in the forest since the response to a greeting is one of the confirmatory symptoms in the [[ASD]]. The second hypothesis was that, by including more sensory modalities, the [[ASD]] recognition using EDA would present a better performance. After that, we performed a second experiment in order to develop a supervised learning model using the outputs of the first experiment. We increased the number of subjects used to calibrate the model and we tested it in a set of subjects not used before, simulating a real-world application.
 

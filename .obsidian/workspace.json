@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SYNTHESIS.md",
+                "file": "ASD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SYNTHESIS"
+              "title": "ASD"
             }
           },
           {
@@ -28,28 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Virtual Reality.md",
+                "file": "Papers/Attention to novelty versus repetition - Contrasting habituation profiles in Autism and Williams syndrome.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Virtual Reality"
-            }
-          },
-          {
-            "id": "5ccba2c1ea10f3c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Virtual Reality.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Virtual Reality"
+              "title": "Attention to novelty versus repetition - Contrasting habituation profiles in Autism and Williams syndrome"
             }
           },
           {
@@ -100,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "VR",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,12 +106,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 297.504695892334
+    "width": 364.5
   },
   "right": {
     "id": "0e1dc361b5971035",
@@ -142,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Virtual Reality.md",
+                "file": "Papers/The impact of visual and auditory distractions on the performance of neurodiverse students in virtual reality (VR) environments.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Virtual Reality"
+              "title": "Rétrolien pour The impact of visual and auditory distractions on the performance of neurodiverse students in virtual reality (VR) environments"
             }
           },
           {
@@ -161,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SYNTHESIS2.md",
+                "file": "ASD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SYNTHESIS2"
+              "title": "Liens sortants de ASD"
             }
           },
           {
@@ -181,7 +165,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Mots-clés"
             }
           },
           {
@@ -190,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/Classifying sensory profiles of children in the general population.md",
+                "file": "ASD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Classifying sensory profiles of children in the general population"
+              "title": "Plan de ASD"
             }
           },
           {
@@ -209,8 +193,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,44 +211,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81b4a994295b4ce0",
+  "active": "cfae2aaa75eb6e1f",
   "lastOpenFiles": [
-    "VR.md",
-    "Papers/Designing virtual reality tools for students with Autism Spectrum Disorder A systematic review.md",
-    "Virtual Reality.md",
-    "SYNTHESIS.md",
-    "Papers/The impact of visual and auditory distractions on the performance of neurodiverse students in virtual reality (VR) environments.md",
-    "Hearing.md",
-    "Papers/A Review of Olfactory Display Designs for Virtual Reality Environments.md",
-    "Papers/A Preliminary Exploration of Virtual Reality-Based Visual and Touch Sensory Processing Assessment for Adolescents With Autism Spectrum Disorder.md",
-    "Papers/A Mechanistic Link between Olfaction and Autism Spectrum Disorder.md",
-    "PROTOCOL1.md",
+    "Sans titre.base",
+    "Papers/Psychophysical and Behavioral Characteristics of Olfactory Adaptation.md",
+    "Papers/Predicting virtual reality discomfort.md",
+    "Papers/Odor Intensity and pleasantness for a diverse set of odorants.md",
+    "Papers/Measuring Visual Fatigue and Cognitive Load via Eye Tracking while Learning with Virtual Reality Head-Mounted Displays - A Review.md",
+    "Papers/Investigation into Stress Triggers in Autistic Adults for the Development of Technological Self-Interventions.md",
+    "Papers/Imaginator - A Virtual Reality Based Game for the Treatment of Sensory Processing Disorders.md",
+    "Papers/Exploring Multisensory Extended Reality Approaches for Autistic Children - Improve Well-Being and Assess Auditory Perception.md",
+    "Papers/Emotion Recognition in Adaptive Virtual Reality Settings - Challenges and Opportunities.md",
+    "Papers/Attention to novelty versus repetition - Contrasting habituation profiles in Autism and Williams syndrome.md",
     "Papers/A Process-Model for Minimizing Adverse Effects when Using Head Mounted Display-Based Virtual Reality for Individuals with Autism.md",
-    "Olfaction.md",
-    "Olfactory.md",
-    "Pleasantness judgment.md",
-    "Anxiety.md",
+    "Papers/A Mechanistic Link between Olfaction and Autism Spectrum Disorder.md",
+    "Papers/Sensory adaptation.md",
+    "Papers/TODO/Virtual Reality and Symptoms Management of Anxiety, Depression, Fatigue, and Pain- A Systematic Review.md",
+    "Papers/TODO/A narrative review of immersive virtual reality’s ergonomics and risks at the workplace - cybersickness, visual fatigue, muscular fatigue, acute stress, and mental overload.md",
+    "Papers/TODO/Overcoming the information overload problem in a multiform feedback-based virtual reality system for hand motion rehabilitation - healthy subject case study.md",
+    "Papers/TODO/Exploring the Effects of Visual and Auditory Distractors in Virtual Reality on Perceived Cognitive Load and Cognitive Alertness.md",
+    "Papers/Sensory overload - A concept analysis.md",
+    "attachments/Pasted image 20260328165210.png",
     "Papers/_EXAMPLE.md",
-    "Papers/Olfactory Nomenclature - An Orchestrated Effort to Clarify Terms and Definitions of Dysosmia.md",
-    "Autistic.md",
-    "Papers/TODO/Psychophysical and Behavioral Characteristics of Olfactory Adaptation.md",
+    "PROTOCOL1.md",
+    "attachments/Pasted image 20260327182838.png",
+    "Papers/Virtual Reality and Autism Spectrum Disorder - Emergence of Sensory-Motor and Olfactory Potentialities in an Anthropocentric Epistemological Approach.md",
+    "ASD.md",
+    "Autism.md",
+    "Papers/Application of Supervised Machine Learning for Behavioral Biomarkers of Autism Spectrum Disorder Based on Electrodermal Activity and Virtual Reality.md",
+    "ADHD.md",
+    "Papers/Olfaction in autism spectrum disorders A systematic review.md",
     "attachments/Pasted image 20260323170609.png",
     "attachments/Pasted image 20260323170534.png",
-    "Papers/Exploring Multisensory Extended Reality Approaches for Autistic Children - Improve Well-Being and Assess Auditory Perception.md",
-    "Papers/Virtual Reality and Autism Spectrum Disorder - Emergence of Sensory-Motor and Olfactory Potentialities in an Anthropocentric Epistemological Approach.md",
-    "Olfactory adaptation.md",
-    "Papers/TODO/A narrative review of immersive virtual reality’s ergonomics and risks at the workplace - cybersickness, visual fatigue, muscular fatigue, acute stress, and mental overload.md",
-    "Papers/TODO/Attention to novelty versus repetition - Contrasting habituation profiles in Autism and Williams syndrome.md",
-    "Papers/TODO/Exploring the Effects of Visual and Auditory Distractors in Virtual Reality on Perceived Cognitive Load and Cognitive Alertness.md",
-    "Papers/TODO/Overcoming the information overload problem in a multiform feedback-based virtual reality system for hand motion rehabilitation - healthy subject case study.md",
     "attachments/Pasted image 20260319175056.png",
     "attachments/Pasted image 20260319174909.png",
     "attachments/Pasted image 20260319174853.png",
     "attachments/Pasted image 20260319172701.png",
     "attachments/Pasted image 20260319172637.png",
     "attachments/Pasted image 20260319171221.png",
-    "attachments/Pasted image 20260319170012.png",
-    "attachments/LacoteCoquereauEnvironment.png",
     "Papers/TODO",
     "Papers/TODO",
     "Articles",
@@ -274,7 +257,6 @@
     "Sensory processing pattern",
     "Papers",
     "attachments",
-    "Sensory profiles",
-    "M"
+    "Sensory profiles"
   ]
 }

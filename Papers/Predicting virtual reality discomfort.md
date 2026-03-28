@@ -1,6 +1,6 @@
 ---
 author: Vasilii Marshev
-year: "2021"
+year: 2021
 doi: " 10.2352/ISSN.2470-1173.2021.13.ERVR-168"
 ---
 # Introduction
@@ -29,7 +29,7 @@ Create and validate a questionnaire about probabilities of [[Cybersickness]]
 >“the use of a subjective method is an obvious limitation to our study” (Marshev et al., 2021, p. 3)
 # Synthesis
 
-This study aims to create and validate a short questionnaire to know if a [[VR]] user will have severe risks of [[Cybersickness]].
+This study aims to create and validate a short questionnaire to know if a [[Virtual Reality]] user will have severe risks of [[Cybersickness]].
 Tested on 200+ participants (including 45 that felt some [[Cybersickness]]), there was a strong correlation between subjective estimations of history of migraines, motion sickness, fatigue / illness, stereoscopic vision dysfunctions and probability of [[Cybersickness]]. 
 # Images
 

@@ -1,8 +1,8 @@
 ---
 author: Cécile Lacôte-Coquereau
-year: "2024"
+year: 2024
 doi: 10.5220/0012409600003660
-keyword1: "[[VR]]"
+keyword1: "[[Virtual Reality]]"
 keyword2: "[[Virtual environment]]"
 keyword3: "[[ASD]]"
 keyword4: "[[User-Centred Design]]"
@@ -11,7 +11,7 @@ keyword4: "[[User-Centred Design]]"
 
 >"the experience of self can be enhanced if other beings exist in the virtual world" (Biocca et al., 2003)
 
->[[Retro-olfaction]], evident from the moment a child is born (Candau, 2000), is a physiological mechanism that enables the olfactory system to perceive aromatic characteristics
+>[[Retro-olfaction]], evident from the moment a child is born (Candau, 2000), is a physiological mechanism that enables the olfactory system to perceive aromatic characteristics 
 
 >depriving ourselves of the powerful emotional tone of odors would mean "cutting ourselves off from an essential link with the world" (Holley, 1999)
 

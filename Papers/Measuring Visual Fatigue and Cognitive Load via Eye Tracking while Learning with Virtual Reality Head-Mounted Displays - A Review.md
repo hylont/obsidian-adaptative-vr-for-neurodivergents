@@ -1,6 +1,6 @@
 ---
 author: Alexis Souchet
-year: "2021"
+year: 2021
 doi: 10.1080/10447318.2021.1976509
 ---
 [[Cognitive load]]

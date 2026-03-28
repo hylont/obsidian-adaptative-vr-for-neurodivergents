@@ -1,6 +1,6 @@
 ---
 author: Shou-en Tsai
-year: "2021"
+year: 2021
 doi: 10.1109/VR50410.2021.00050
 keyword1: "[[Virtual Reality]]"
 keyword2: "[[Olfactory]]"
@@ -61,7 +61,7 @@ keyword2: "[[Olfactory]]"
 This paper tries to find whether directionnality and [[Smell intensity]] are well guessed in none congruent visual cues (not in the right spot & unapropriate visual "cloud" effect)
 Their experiment show that visual representation is an important factor for intensity, identification and directionnality.
 This duality creates a confused state where participants will still believe smell stimuli are effective when they're not
-The authors think that [[Olfactory]] [[VR]] increases [[Presence]]
+The authors think that [[Olfactory]] [[Virtual Reality]] increases [[Presence]]
 ## Images
 
 ![[Pasted image 20260123143840.png]]

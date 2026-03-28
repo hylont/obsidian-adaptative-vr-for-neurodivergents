@@ -1,6 +1,6 @@
 ---
 author: Jack Clark
-year: "2022"
+year: 2022
 doi: 10.1007/s10055-022-00672-0
 keyword1: "[[Virtual Reality]]"
 keyword2: Ergonomics

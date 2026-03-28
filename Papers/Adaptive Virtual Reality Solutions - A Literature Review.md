@@ -1,9 +1,10 @@
 ---
 author: " Pedro Henrique Barcha Correia"
-year: "2024"
+year: 2024
 keyword1: "[[Adaptative Virtual Reality (AVR)]]"
 doi: 10.1145/3691573.3691574
 ---
+[[Virtual Reality]]
 ## Introduction
 
 >“AVR systems are capable of intelligently responding to users’ needs and preferences, enhancing efficacy, satisfaction, and engagement.” (Correia, 2024, p. 1)
@@ -55,7 +56,7 @@ doi: 10.1145/3691573.3691574
 # Synthesis
 
 [[Adaptative Virtual Reality (AVR)]] is presented. Authors think that AVR systems are capable of intelligently responding to users’ needs and preferences, enhancing efficacy, satisfaction, and engagement.
-For a [[VR]] system to be considered adaptive, it must have :
+For a [[Virtual Reality]] system to be considered adaptive, it must have :
 - user’s performance measurements (accuracy, task completion time, gestures, age, experience and physiological data (e.g., heart rate, blink rate))
 - adaptive variables : adjustable features that dynamically change based on user performance
 - adaptive logic, the underlying mechanism ensuring automatic adjustment of the adaptive variables (Finite State Machines, [[Fuzzy Inference Systems]], or Machine Learning)

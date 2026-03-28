@@ -1,6 +1,6 @@
 ---
 author: Barry Wark
-year: "2007"
+year: 2007
 doi: 10.1016/j.conb.2007.07.001
 ---
 # Efficient coding and adaptation

@@ -54,6 +54,6 @@ for [[Autistic]] students?
 
 # Synthesis 
 
-This study records every [[VR]] and [[ASD]] works from 96 to 2021 and states their domains and recommendations.
+This study records every [[Virtual Reality]] and [[ASD]] works from 96 to 2021 and states their domains and recommendations.
 Overall, the majority of the studies lack control groups ([[Typically developed (TD)]]). Interestingly, even though VR seems well accepted and computer-generated stimuli tend to be more enjoyable than IRL ones, 50% of the ASDs that don't accept it suffer from nausea, anxiety or [[Cybersickness]]. Also, "Immersive VR" is more often implemented than real VR.
 A statement about explicit & simple yet unusual methods of communications should be used (YES NO cubes)

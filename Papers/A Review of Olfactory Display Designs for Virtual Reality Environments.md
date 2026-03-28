@@ -2,7 +2,7 @@
 author: Jordan Tewell
 year: 2024
 doi: 10.1145/3665243
-keyword1: "[[VR]]"
+keyword1: "[[Virtual Reality]]"
 keyword2: "[[Olfaction]]"
 keyword3: "[[Presence]]"
 keyword4: "[[Immersion]]"
@@ -104,7 +104,7 @@ keyword6: "[[Olfactive VR]]"
 First, this review paper emphasizes that allowing [[Olfaction]] to be reproductible is difficult, as there is no way of encoding a smell. However they state that a smell is characterized by its [[Smell intensity]] and Smell duration.
 They also state that Gender, age and cultural background are factors of smell perception, as well as [[Olfactory adaptation]]. They also say that [[Scent]] notes are correlated with [[Pleasantness judgment]].
 
- [[Olfaction]] delivering methods in [[VR]] :
+ [[Olfaction]] delivering methods in [[Virtual Reality]] :
 - ubiquitous-type displays in which the [[Olfactory]] display is situated in the environment
 - wearable-type displays, which the user wears
 - Handled : embed OVR displays into various objects that can be used in VR systems, such as controllers that deliver the [[Scent]]

@@ -26,7 +26,7 @@ keyword3: "[[Disability]]"
 
 ## Procedures
 
->Participants were able to access Evenness as part of their participation in the organisation’s day program at their request. Some participants attended the day program where the [[VR]] equipment was located and others who attended surrounding day programs were able to book Evenness use into their weekly activities. Participants were provided with transportation to access Evenness. Each participant using Evenness had their nominated participating carer with them throughout their use. The carer was a staff member of the organisation or their family member, was known and trusted by the participant and was trained and experienced in operating the [[VR]] equipment.
+>Participants were able to access Evenness as part of their participation in the organisation’s day program at their request. Some participants attended the day program where the [[Virtual Reality]]equipment was located and others who attended surrounding day programs were able to book Evenness use into their weekly activities. Participants were provided with transportation to access Evenness. Each participant using Evenness had their nominated participating carer with them throughout their use. The carer was a staff member of the organisation or their family member, was known and trusted by the participant and was trained and experienced in operating the [[Virtual Reality]] equipment.
 
 >Participants were able to determine their own usage and there was no set duration 
 
@@ -41,12 +41,12 @@ Significant improvement in [[Anxiety]]
 
 >promising results were reported with [[Depression]] ­severity and major ­depression for people without [[Disability]] 
 
->Significant correlations observed in sensory sensitivity and low [[Registration]] scores and [[VR]] usage indicated that increased time spent using the [[VR]] [[sensory room]] may have mediated the changes in [[Sensory processing]] 
+>Significant correlations observed in sensory sensitivity and low [[Registration]] scores and [[Virtual Reality]]usage indicated that increased time spent using the [[Virtual Reality]][[sensory room]] may have mediated the changes in [[Sensory processing]] 
 
 >improvements in anxiety and depression from pre to post, with changes in sensory processing, but no significant changes in adaptive behaviour or personal wellbeing. 
 ## Conclusion
 
->It could be hypothesised that a [[VR]] [[sensory room]] may impact [[Anxiety]], [[depression]] and [[Sensory processing]] in the short term. 
+>It could be hypothesised that a [[Virtual Reality]][[sensory room]] may impact [[Anxiety]], [[depression]] and [[Sensory processing]] in the short term. 
 
 # Synthesis
 
