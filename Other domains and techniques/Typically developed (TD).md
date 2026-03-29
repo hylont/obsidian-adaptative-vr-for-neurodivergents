@@ -1,0 +1,1 @@
+Could be a synonym of [[Neurotypical]]

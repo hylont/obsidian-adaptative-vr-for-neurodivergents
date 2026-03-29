@@ -1,12 +1,12 @@
 ---
 author: Howard Moskowitz
-year: "1976"
+year: 1976
 doi: 10.3758/BF03204218
 ---
 [[Pleasantness judgment]]
 # State of the art
 
->“Quite often. the naive subject responds primarily to the hedonic component of an ador, before considering its quality and intensity” (Moskowitz et al., 1976, p. 122)
+>“Quite often. the naive subject responds primarily to the hedonic component of an odor, before considering its quality and intensity” (Moskowitz et al., 1976, p. 122)
 
 >“9-point "hedonic scale" of preference (Peryam & Pilgrim, 1957) is often used to assess a variety of hedonic aspects of stimuli, including aroma (odor). This scale allows for four categories reflecting graded degrees ofliking, four reflecting graded degrees of disliking, and a category for neutrality” (Moskowitz et al., 1976, p. 122)
 

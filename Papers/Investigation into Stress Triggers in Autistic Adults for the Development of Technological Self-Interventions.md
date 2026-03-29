@@ -2,7 +2,7 @@
 author: John Mcgowan
 year: 2023
 doi: 10.1145/3597638.3608392
-keyword1: "[[Autism]]"
+keyword1: "[[ASD]]"
 keyword2: "[[Stress]]"
 ---
 

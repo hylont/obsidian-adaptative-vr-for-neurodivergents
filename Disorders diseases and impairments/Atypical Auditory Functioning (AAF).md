@@ -1,0 +1,2 @@
+[[Exploring Multisensory Extended Reality Approaches for Autistic Children - Improve Well-Being and Assess Auditory Perception]]
+Sensory impairments containing [[Hyperacusis]], [[Phonophobia]] and [[Misophonia]]

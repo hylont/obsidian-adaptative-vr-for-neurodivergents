@@ -1,0 +1,1 @@
+Being invested while allowing something to alter your emotions

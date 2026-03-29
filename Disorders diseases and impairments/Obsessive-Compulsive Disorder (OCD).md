@@ -1,0 +1,2 @@
+[[DSM-5]]
+>OCD is characterized by the presence of obsessions and/or compulsions. Obsessions are recurrent and persistent thoughts, urges, or images that are experienced as intrusive and unwanted, whereas compulsions are repetitive behaviors or mental acts that an indi vidual feels driven to perform in response to an obsession or according to rules that must be applied rigidly

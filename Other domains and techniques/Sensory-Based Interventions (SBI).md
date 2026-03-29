@@ -1,0 +1,2 @@
+[[Systematic review of sensorybased interventions for children and youth]]
+>“The aim of SBIs is to temporarily modify a child’s physiological arousal level, creating a better match between the person and task, with the goal to improve behavior and participation in tasks (11). SBIs are informed by sensory integration theory, but they have clearly delineated differences from direct, one-on-one occupational therapy intervention using Ayres Sensory Integration® intervention, termed ASI” (Piller et al., 2025, p. 2)

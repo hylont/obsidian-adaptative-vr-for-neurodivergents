@@ -1,0 +1,2 @@
+[[Olfactory Nomenclature - An Orchestrated Effort to Clarify Terms and Definitions of Dysosmia]]
+>“It is used to describe normal olfactory function and refers to the absence of any olfactory-related complaints in terms of quantitative olfactory function” (Hernandez et al., 2023, p. 315)

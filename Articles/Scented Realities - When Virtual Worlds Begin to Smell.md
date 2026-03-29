@@ -1,11 +1,11 @@
 ---
 author: Annelive Saive
 month: November
-year: "2025"
+year: 2025
 url: https://annelisesaive.substack.com/p/scented-realities-when-virtual-worlds
 ---
 >smell enhances the sense of [[Presence]]
->... people consistently reported stronger [[Spatial realism]], deeper [[Emotional engagement]], and even measurable shifts in behavior
+>... people consistently reported stronger Spatial [[Realism]] deeper [[Emotional engagement]], and even measurable shifts in behavior
 >... Physiological markers such as heart-rate variability and skin conductance mirrored these effects,
 
 >two variables consistently predict success: **contextual fit** _(Does the odor belong here?)_ and **temporal precision** _(Does the odor arrive at the right moment?)_
@@ -20,5 +20,5 @@ url: https://annelisesaive.substack.com/p/scented-realities-when-virtual-worlds
     
 - **Individual variability:** Sensitivity and preference differ widely; quick calibration tests help tailor intensity.
     
-- **Adaptation:** Continuous exposure leads to olfactory fatigue. Short, pulsed releases keep scents perceptible and reduce [[Desensitization]]. ([[Sensory fatigue]])
+- **Adaptation:** Continuous exposure leads to olfactory fatigue. Short, pulsed releases keep scents perceptible and reduce desensitization ([[Habituation]] or [[Sensory overload]] ?)
 

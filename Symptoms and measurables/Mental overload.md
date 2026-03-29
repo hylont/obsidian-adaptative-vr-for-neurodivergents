@@ -1,0 +1,4 @@
+[[A narrative review of immersive virtual reality’s ergonomics and risks at the workplace - cybersickness, visual fatigue, muscular fatigue, acute stress, and mental overload]]
+>“[[Cognitive load]] and mental workload are often used as synonyms in the literature” (Souchet et al., 2023, p. 32) ... the two concepts share a common ground: the amount of working memory resources used for a given task” (Souchet et al., 2023, p. 32)
+
+>“mental workload is a subjectively experienced physiological processing state, revealing the interplay between one’s limited and multidimensional cognitive resources and the cognitive work demands” (Souchet et al., 2023, p. 32)

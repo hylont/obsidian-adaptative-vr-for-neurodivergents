@@ -3,6 +3,7 @@ author: Barry Wark
 year: 2007
 doi: 10.1016/j.conb.2007.07.001
 ---
+[[Habituation]]
 # Efficient coding and adaptation
 
 >Barlow’s efficient coding hypothesis suggests that, given a finite capacity to transmit information, neural systems employ an optimally efficient coding strategy to represent the inputs that they typically process. However, when collected over relatively short time or length scales, the local statistics of many natural stimuli differ greatly from their global distribution. For example, luminance and contrast in natural visual environments vary over orders of magnitude across time in a day or across space in a complex scene

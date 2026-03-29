@@ -1,0 +1,2 @@
+[[Neurodivergence and the Workplace - A Systematic Review of the Literature]]
+>“neurodiversity refers to the natural variations in brain function that exist across the entire population, encompassing both neurotypical and neurodivergent individuals.” (Vargas-Salas et al., 2025, p. 84)

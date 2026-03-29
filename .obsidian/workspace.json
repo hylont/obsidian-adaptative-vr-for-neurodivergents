@@ -8,52 +8,66 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5177100151a43558",
+            "id": "7ba5b905e7e74fff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASD.md",
+                "file": "Other domains and techniques/Stimuli.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ASD"
+              "title": "Stimuli"
             }
           },
           {
-            "id": "9942247530578102",
+            "id": "e759adadbae38187",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/Attention to novelty versus repetition - Contrasting habituation profiles in Autism and Williams syndrome.md",
+                "file": "Disorders diseases and impairments/Parosmia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Attention to novelty versus repetition - Contrasting habituation profiles in Autism and Williams syndrome"
+              "title": "Parosmia"
             }
           },
           {
-            "id": "cfae2aaa75eb6e1f",
+            "id": "acd60d31fe9187cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/The impact of visual and auditory distractions on the performance of neurodiverse students in virtual reality (VR) environments.md",
+                "file": "Disorders diseases and impairments/Phantosmia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The impact of visual and auditory distractions on the performance of neurodiverse students in virtual reality (VR) environments"
+              "title": "Phantosmia"
+            }
+          },
+          {
+            "id": "f6041d3aac1a86ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "_README"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/The impact of visual and auditory distractions on the performance of neurodiverse students in virtual reality (VR) environments.md",
+                "file": "Other domains and techniques/Stimuli.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour The impact of visual and auditory distractions on the performance of neurodiverse students in virtual reality (VR) environments"
+              "title": "Rétrolien pour Stimuli"
             }
           },
           {
@@ -211,52 +225,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cfae2aaa75eb6e1f",
+  "active": "8306cdeddb27491c",
   "lastOpenFiles": [
-    "Sans titre.base",
-    "Papers/Psychophysical and Behavioral Characteristics of Olfactory Adaptation.md",
-    "Papers/Predicting virtual reality discomfort.md",
-    "Papers/Odor Intensity and pleasantness for a diverse set of odorants.md",
-    "Papers/Measuring Visual Fatigue and Cognitive Load via Eye Tracking while Learning with Virtual Reality Head-Mounted Displays - A Review.md",
-    "Papers/Investigation into Stress Triggers in Autistic Adults for the Development of Technological Self-Interventions.md",
-    "Papers/Imaginator - A Virtual Reality Based Game for the Treatment of Sensory Processing Disorders.md",
-    "Papers/Exploring Multisensory Extended Reality Approaches for Autistic Children - Improve Well-Being and Assess Auditory Perception.md",
-    "Papers/Emotion Recognition in Adaptive Virtual Reality Settings - Challenges and Opportunities.md",
-    "Papers/Attention to novelty versus repetition - Contrasting habituation profiles in Autism and Williams syndrome.md",
-    "Papers/A Process-Model for Minimizing Adverse Effects when Using Head Mounted Display-Based Virtual Reality for Individuals with Autism.md",
-    "Papers/A Mechanistic Link between Olfaction and Autism Spectrum Disorder.md",
-    "Papers/Sensory adaptation.md",
-    "Papers/TODO/Virtual Reality and Symptoms Management of Anxiety, Depression, Fatigue, and Pain- A Systematic Review.md",
-    "Papers/TODO/A narrative review of immersive virtual reality’s ergonomics and risks at the workplace - cybersickness, visual fatigue, muscular fatigue, acute stress, and mental overload.md",
-    "Papers/TODO/Overcoming the information overload problem in a multiform feedback-based virtual reality system for hand motion rehabilitation - healthy subject case study.md",
-    "Papers/TODO/Exploring the Effects of Visual and Auditory Distractors in Virtual Reality on Perceived Cognitive Load and Cognitive Alertness.md",
-    "Papers/Sensory overload - A concept analysis.md",
+    "Other domains and techniques/XR/Augmented Virtuality.md",
+    "Other domains and techniques/XR/XR.md",
+    "Papers/Evaluating a virtual reality sensory room for adults with disabilities.md",
+    "Wellbeing.md",
+    "Other domains and techniques/Stimuli.md",
+    "Symptoms and measurables/Visual search.md",
+    "Other domains and techniques/XR/Virtual Reality.md",
+    "Other domains and techniques/XR/Virtual environment.md",
+    "Other domains and techniques/Typically developed (TD).md",
+    "Symptoms and measurables/Suprathreshold detection.md",
+    "Papers/Olfactory processing in adults with autism spectrum disorders.md",
+    "Disorders diseases and impairments/Misophonia.md",
+    "Disorders diseases and impairments/Neurodiverse.md",
+    "Disorders diseases and impairments/Parkinson's disorder (PD).md",
+    "Disorders diseases and impairments/Phonophobia.md",
+    "Disorders diseases and impairments/Neurological disorder.md",
+    "Disorders diseases and impairments/Low-functioning autism (LFA).md",
+    "Disorders diseases and impairments/Intellectual disability.md",
+    "Disorders diseases and impairments/Hyperresponsiveness (or hyperreactivity).md",
+    "Disorders diseases and impairments/Hyperacusis.md",
+    "Disorders diseases and impairments/Huntington's chorea.md",
+    "Disorders diseases and impairments/Dyspraxia.md",
+    "Disorders diseases and impairments/Dysosmia.md",
+    "Disorders diseases and impairments/Developmental delay.md",
+    "Symptoms and measurables/Stress.md",
+    "Symptoms and measurables/Stimulus novelty.md",
+    "attachments/Pasted image 20260330000735.png",
+    "Questionnaires/Tools",
+    "Papers/TODOWhenBored",
+    "Other domains and techniques/XR",
+    "Disorders diseases and impairments/Probably not relevant",
+    "Behaviours",
+    "Sensory classifications",
+    "Communicative Responses",
+    "Olfaction keywords",
+    "Other domains and techniques",
+    "Symptoms and measurables",
     "attachments/Pasted image 20260328165210.png",
-    "Papers/_EXAMPLE.md",
-    "PROTOCOL1.md",
     "attachments/Pasted image 20260327182838.png",
-    "Papers/Virtual Reality and Autism Spectrum Disorder - Emergence of Sensory-Motor and Olfactory Potentialities in an Anthropocentric Epistemological Approach.md",
-    "ASD.md",
-    "Autism.md",
-    "Papers/Application of Supervised Machine Learning for Behavioral Biomarkers of Autism Spectrum Disorder Based on Electrodermal Activity and Virtual Reality.md",
-    "ADHD.md",
-    "Papers/Olfaction in autism spectrum disorders A systematic review.md",
     "attachments/Pasted image 20260323170609.png",
     "attachments/Pasted image 20260323170534.png",
     "attachments/Pasted image 20260319175056.png",
     "attachments/Pasted image 20260319174909.png",
     "attachments/Pasted image 20260319174853.png",
     "attachments/Pasted image 20260319172701.png",
-    "attachments/Pasted image 20260319172637.png",
-    "attachments/Pasted image 20260319171221.png",
-    "Papers/TODO",
-    "Papers/TODO",
-    "Articles",
-    "Untitled.base",
-    "Adult",
-    "Sensory processing pattern",
-    "Papers",
-    "attachments",
-    "Sensory profiles"
+    "attachments/Pasted image 20260319172637.png"
   ]
 }

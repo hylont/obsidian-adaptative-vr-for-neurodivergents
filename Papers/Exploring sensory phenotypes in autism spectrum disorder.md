@@ -1,28 +1,30 @@
 ---
 author: Scheerer et al
-year: "2021"
+year: 2021
 keyword1: "[[Sensory processing]]"
 keyword2: "[[Sensory subtypes (or phenotypes)]]"
-keyword3: "[[Clustering]]"
+keyword3: Clustering
 keyword4: "[[ASD]]"
 keyword5: "[[Adaptative behaviour]]"
-keyword6: "[[Social communication]]"
-keyword7: "[[Restrictive and repetitive behaviours]]"
+keyword6: Social communication
+keyword7: Restrictive and repetitive behaviours
 keyword8: "[[ADHD]]"
-keyword9: "[[OCD]]"
+keyword9: "[[Obsessive-Compulsive Disorder (OCD)]]"
 doi: 10.1186/s13229-021-00471-5
 ---
+[[Sensory profiles]]
+
 ## Objectives
 
->investigate patterns in [[Sensory processing]] abilities in a large sample of [[Autistic]] children and adults in order to determine the best number of [[Sensory phenotypes]] to describe their [[Sensory processing]] abilities. 
+>investigate patterns in [[Sensory processing]] abilities in a large sample of [[ASD]] children and adults in order to determine the best number of [[Sensory phenotypes]] to describe their [[Sensory processing]] abilities. 
 
->identify  relations between [[Sensory processing]] differences and adaptive functioning, [[Autistic]] traits, and traits related to commonly co-occurring [[Neurodevelopmental disorders]] including [[ADHD]] and [[OCD]]
+>identify  relations between [[Sensory processing]] differences and adaptive functioning, [[ASD]] traits, and traits related to commonly co-occurring [[Neurodevelopmental disorders]] including [[ADHD]] and [[Obsessive-Compulsive Disorder (OCD)]]
 
 ## Procedure
  
 Data of 599 participants of Ontario’s Neurodevelopmental Disorder database :
 
->Participants were included if they had a diagnosis of [[ASD]], [[Autism]], [[Asperger’s]], or [[Pervasive Developmental Disorder Not Otherwise Specified (PDD-NOS)]] and a completed short sensory profile [[SSP]]
+>Participants were included if they had a diagnosis of [[ASD]], [[ASD]], [[Asperger syndrome]], or [[Pervasive Developmental Disorder Not Otherwise Specified (PDD-NOS)]] and a completed short sensory profile [[SSP]]
 
 Their answers on various questionnaires were then computed to create clusters
 ## Results
@@ -37,9 +39,9 @@ Then were identified 3 [[Sensory phenotypes]] :
 - [[Under-Responsive and Sensory Seeking (URSS)]]
 - [[Movement and Low Energy-Weakness (M-LEW)]]
 
->the [[Under-Responsive and Sensory Seeking (URSS)]] and [[Movement and Low Energy-Weakness (M-LEW)]] [[Sensory phenotypes]] showed poor adaptive functioning, suggesting that [[Autistic]] individuals who demonstrate particularly high levels of under-responsivity and sensory seeking, movement difficulties, and low energy, may be those who will benefit most from [[Environments]] that support these sensory differences
+>the [[Under-Responsive and Sensory Seeking (URSS)]] and [[Movement and Low Energy-Weakness (M-LEW)]] [[Sensory phenotypes]] showed poor adaptive functioning, suggesting that [[ASD]] individuals who demonstrate particularly high levels of under-responsivity and sensory seeking, movement difficulties, and low energy, may be those who will benefit most from environments that support these sensory differences
 
->grouping [[Autistic]] individuals by these [[Sensory phenotypes]] could allow for more focused interventions that target the sensory domains, and behaviors, that present the most difficulty for those individuals
+>grouping [[ASD]] individuals by these [[Sensory phenotypes]] could allow for more focused interventions that target the sensory domains, and behaviors, that present the most difficulty for those individuals
 
 # Synthesis
 

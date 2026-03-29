@@ -1,0 +1,2 @@
+[[The Picture Exchange Communication System]]
+>“a training system that was developed to teach children with ASD a rapidly acquired, self-initiated functional communication system” (Bondy and Frost, p. 727)

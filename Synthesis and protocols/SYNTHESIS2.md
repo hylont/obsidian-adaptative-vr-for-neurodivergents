@@ -33,7 +33,6 @@ Conception and validation of a multisensorial adaptative VR immersive framework 
 		- "consists in a fear of sounds (e.g., dogs barking)" [5]
 	- [[Misophonia]]
 		- "characterises strong emotional reaction to sounds in specific contexts and/or with a specific meaning to the individual (e.g., chewing)" [5]
-	- [[Enhanced perceptual functioning (EPF)]]  [4] (unsure)
 
 ## 2.3	Measure neurodivergence
 

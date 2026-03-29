@@ -1,0 +1,2 @@
+[[Olfactory Nomenclature - An Orchestrated Effort to Clarify Terms and Definitions of Dysosmia]]
+>“dysosmia” be used as an umbrella term to describe the presence of quantitative and/or qualitative olfactory dysfunction. However, more specific terms listed below are recommended to better describe specific olfactory dysfunctions” (Hernandez et al., 2023, p. 314)

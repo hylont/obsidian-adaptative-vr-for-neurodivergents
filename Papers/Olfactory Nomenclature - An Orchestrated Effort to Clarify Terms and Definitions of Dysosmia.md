@@ -1,6 +1,6 @@
 ---
 author: Anna Kristina Hernandez
-year: "2023"
+year: 2023
 doi: 10.1159/000530211
 keyword1: "[[Olfaction]]"
 keyword2: "[[Anosmia]]"
@@ -11,7 +11,6 @@ keyword6: "[[Normosmia]]"
 keyword7: "[[Hyperosmia]]"
 keyword8: "[[Olfactory intolerence]]"
 keyword9: "[[Phantosmia]]"
-keyword10: "[[Olfactory hallucination]]"
 ---
 >“young (21–30 years), healthy individuals who typically have the best olfactory function measurements of any age group” (Hernandez et al., 2023, p. 315)
 
@@ -44,6 +43,8 @@ keyword10: "[[Olfactory hallucination]]"
 >“has been reported in the literature as an isolated phenomenon after general anesthesia” (Hernandez et al., 2023, p. 316)
 
 ## Phantosmia
+
+Also called Olfactory hallucination
 
 >“It refers to the perception of an odor, often unpleasant (i.e., burned, rotten, fecal, or chemical [2, 25]) in the absence of an odor stimulus [2, 3]” (Hernandez et al., 2023, p. 316)
 

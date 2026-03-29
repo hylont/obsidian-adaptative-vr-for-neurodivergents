@@ -22,7 +22,7 @@ Create and validate a questionnaire about probabilities of [[Cybersickness]]
 
 >“The main approach is, probably, hardware and software improvement, for instance reducing head tracking lag or image flicker, or using [[Eye-tracking]] to blur the image in the peripheral field so as to simulate a more natural vision” (Marshev et al., 2021, p. 3)
 
->“A rather novel finding was the importance of [[Stereoscopic]] vision issues” (Marshev et al., 2021, p. 3)
+>“A rather novel finding was the importance of Stereoscopic vision issues” (Marshev et al., 2021, p. 3)
 
 >“Unfortunately, as evident from the non-normal distribution of the residuals, the nature of the data did not allow for a high precision regression model. Only [[Fatigue]] (question 8) appears useful as a predictor.” (Marshev et al., 2021, p. 3)
 

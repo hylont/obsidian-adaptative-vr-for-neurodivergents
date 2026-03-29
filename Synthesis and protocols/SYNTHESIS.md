@@ -12,7 +12,7 @@ Following Dunn's [[Sensory profiles]], it's possible to adapt an experience's vi
 Following Dunn's [[Sensory profiles]], it's possible to adapt an experience's visual, olfactive and auditive stimuli after a first calibration experience
 
 ### Main challenges :
-- Avoid [[Sensory fatigue]] and [[Desensitization]]
+- Avoid [[Sensory overload]] and [[Habituation]]
 - We need to create a "Sensory sensibilities" file first, then load it on a second experiment. (And not [[Sensory profiles]], due to [[Classifying sensory profiles of children in the general population]])
 - Be sure that the profile is still relevant some time after the calibration
 - The olfactive stimuli need to be triggered by a mandatory interaction, to avoid double [[Scent]] contamination

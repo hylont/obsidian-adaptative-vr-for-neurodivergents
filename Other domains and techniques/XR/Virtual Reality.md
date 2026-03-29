@@ -1,0 +1,10 @@
+[[A Review of Olfactory Display Designs for Virtual Reality Environments]]
+>Modern Virtual Reality (VR) technologies enable users to become immersed in virtual spaces. These technologies usually take the form of a Head-mounted Display (HMD), which enables the user to experience the virtual environments, but they can also scale to the size of a room, such as a Cave Automatic Virtual Environment (CAVE).
+>headphones and hand controllers can be added, allowing users to hear and interact with virtual content. These technologies, by their nature, are immersive, since they provide an objective level of sensory fidelity (through visual, audio, and haptic feedback) to the user
+
+[[Application of Supervised Machine Learning for Behavioral Biomarkers of Autism Spectrum Disorder Based on Electrodermal Activity and Virtual Reality]]
+>VR can be described as a virtual 3D environment that can replicate real experiences where participants can interact as if they were in the real world
+
+[[Le traité de la Réalité Virtuelle]]
+>“La réalité virtuelle est un domaine scientifique et technique exploitant l’informatique (1) et des interfaces comportementales (2) en vue de simuler dans un monde virtuel (3) le comportement d’entités 3D, qui sont en interaction en temps réel (4) entre elles et avec un ou des utilisateurs en immersion pseudo-naturelle (5) par l’intermédiaire de canaux sensori-moteurs.” (“Le Traité de la réalité virtuelle”, p. 41)
+>“La réalité virtuelle est un domaine scientifique et technique exploitant l’informatique et des interfaces comportementales en vue de simuler dans un monde virtuel le comportement d’entités 3D, qui sont en interaction en temps réel entre elles et avec un ou des utilisateurs en immersion pseudo-naturelle par l’intermédiaire de canaux sensori-moteurs.” (“Le Traité de la réalité virtuelle”, p. 41)

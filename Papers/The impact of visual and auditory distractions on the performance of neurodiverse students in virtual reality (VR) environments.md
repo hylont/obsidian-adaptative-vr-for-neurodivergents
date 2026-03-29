@@ -3,7 +3,7 @@ author: Ibrahim Dahlstrom-Hakki et al
 year: 2024
 keyword1: "[[Neurodiverse]]"
 keyword2: "[[Virtual Reality]]"
-keyword3: "[[Autism]]"
+keyword3: "[[ASD]]"
 keyword4: "[[Visual search]]"
 keyword5: "[[Cognitive processing]]"
 doi: 10.1007/s10055-023-00933-6
@@ -20,7 +20,7 @@ Each participant saw a total of 30 visual search trials. The first three trials 
 
 52 volunteer, 20 participants identified as male, 28 identified as female, two identified as genderfluid, one as nonbinary, and one declined to respond. Racially, 38 identified as White, two identified as Hispanic/Latino,
 
-two as African American, four as Asian American, three as Mixed Race, and three declined to respond. In terms of [[Neurodiverse]] status based on self-reporting, nine reported [[ADHD]], six reported [[Autism]], four reported a [[Learning disability]] (LD) and [[ADHD]], two reported LD and autism, six reported ADHD and autism, and 25 identified as [[Neurotypical]]. Ages ranged from 13 to 47 years with an average of 24.9
+two as African American, four as Asian American, three as Mixed Race, and three declined to respond. In terms of [[Neurodiverse]] status based on self-reporting, nine reported [[ADHD]], six reported [[ASD]], four reported a [[Learning disability]] (LD) and [[ADHD]], two reported LD and autism, six reported ADHD and autism, and 25 identified as [[Neurotypical]]. Ages ranged from 13 to 47 years with an average of 24.9
 
 ## Procedures
 

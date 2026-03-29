@@ -6,7 +6,7 @@ keyword1: "[[Virtual Reality]]"
 keyword2: Ergonomics
 keyword3: "[[Cybersickness]]"
 keyword4: "[[Visual fatigue]]"
-keyword5: "[[Muscle fatigue]]"
+keyword5: Muscle fatigue
 keyword6: "[[Stress]]"
 keyword7: "[[Mental overload]]"
 keyword8: Work

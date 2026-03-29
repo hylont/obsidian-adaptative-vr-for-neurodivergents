@@ -1,0 +1,2 @@
+[[Olfactory Nomenclature - An Orchestrated Effort to Clarify Terms and Definitions of Dysosmia]]
+>“Its present use refers to a symptom of qualitative olfactory dysfunction where distorted odor perception occurs in the presence of an odor. Odors are often perceived as unpleasant [57] (described as, e.g., “smoke,” “feces,” “chemical,” “vomit”)” (Hernandez et al., 2023, p. 316)

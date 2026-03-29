@@ -1,0 +1,2 @@
+[[Olfactory Nomenclature - An Orchestrated Effort to Clarify Terms and Definitions of Dysosmia]]
+>“a quantitatively reduced ability to detect and identify the presence of certain odors.” (Hernandez et al., 2023, p. 315)

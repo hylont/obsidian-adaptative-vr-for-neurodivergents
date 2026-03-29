@@ -1,6 +1,6 @@
 ---
 author: Valentin Bauer
-year: "2023"
+year: 2023
 ---
 
 # State of the art
@@ -11,19 +11,11 @@ year: "2023"
 
 ## New keywords to search
 
-[[Dyspraxia]]
-
-[[Atypical Auditory Functioning (AAF)]]
-
-[[Decreased Sound Tolerance (DST)]]
-
 [[Picture Exchange Communication System (PECS)]]
 [[Makaton]]
 
 [[Sensory Integration Therapy (SIT)]]
 [[Sensory-Based Interventions (SBI)]]
-[[Environmental adaptations]]
-[[Mediation interventions]]
 
 [[The four HCI waves]]
 
@@ -32,7 +24,7 @@ year: "2023"
 
 ### Autism - main traits
 
->[[Autism]] is a neurodevelopmental condition with a worldwide prevalence of around one percent [177] and a 3:1 male-to-female ratio [174].
+>[[ASD]] is a neurodevelopmental condition with a worldwide prevalence of around one percent [177] and a 3:1 male-to-female ratio [174].
 >Moreover, [[Atypical sensory perception]] concerns up to 90% of people over the different sensory channels [255].
 
 >Autistic people can also struggle to identify and name their own emotions as well as others
@@ -47,7 +39,7 @@ year: "2023"
 
 ### Common sensory features
 
->[[Sensory Processing Disorder (SPD)]] have long been overlooked, being only included as a core autism feature in 2013 by the DSM-5
+>[[Sensory processing Disorder (SPD)]] have long been overlooked, being only included as a core autism feature in 2013 by the DSM-5
 
 >[[Sensory processing Disorder (SPD)]] are lifelong, and mainly concern sound, touch, and movement [45]
 
@@ -55,7 +47,7 @@ year: "2023"
 
 ### Auditory perception
 
->Williams et al. [332]’s recent meta-analysis estimates that [[Decreased Sound Tolerance (DST)]] affects 38 to 45% of autistic people during their entire life, leading to social isolation or stress.
+>Williams et al. [332]’s recent meta-analysis estimates that Decreased Sound Tolerance (DST) ([[Hyperacusis]]) affects 38 to 45% of autistic people during their entire life, leading to social isolation or stress.
 
 >“The physiological perspective refers to [[Hyperacusis]], i.e., an over-sensivitity to physical sounds parameters (i.e., sound intensity) irrelevant of the context [138, 297, 331]” (Bauer, p. 13)
 

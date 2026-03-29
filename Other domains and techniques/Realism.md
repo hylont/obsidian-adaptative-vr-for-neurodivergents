@@ -1,0 +1,2 @@
+[[SCENTAUR - An Encountered-Type Olfactory Display for Large-Scale Smell Interaction in Virtual Reality]]
+>“the sense of [[Realism]] is defined as the similarity between the virtual and the corresponding physical stimuli” (Baus et al., 2022, p. 3)

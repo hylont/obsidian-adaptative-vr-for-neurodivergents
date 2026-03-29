@@ -1,0 +1,2 @@
+[[SCENTAUR - An Encountered-Type Olfactory Display for Large-Scale Smell Interaction in Virtual Reality]]
+>“the sense of [[Reality]] is defined as the degree to which the user perceives the immersion as actually occurring” (Baus et al., 2022, p. 3)

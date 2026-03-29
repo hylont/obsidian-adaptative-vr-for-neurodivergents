@@ -4,29 +4,29 @@ year: "2018"
 doi: 10.1109/SeGAH.2018.8401355
 keyword1: "[[Virtual Reality]]"
 keyword2: "[[Sensory processing]]"
-keyword3: "[[Sensory processing disorder (SPD)]]"
+keyword3: "[[Sensory processing Disorder (SPD)]]"
 ---
 OT = Occupational Therapist
 
 ## Objectives
 
->an immersive VR game aimed specifically at [[Sensory processing disorder (SPD)]] treatment. 
+>an immersive VR game aimed specifically at [[Sensory processing Disorder (SPD)]] treatment. 
 
 >sound effects - to stimulate the auditory system; graphic quality and a detailed colorful scenario  to stimulate vision; realistic physics-based movements and activities requiring the user’s constant movement of the head to stimulate the vestibular and proprioceptive systems. 
 
 >The main purpose of the system is to offer new resources for OTs in their sensory processing treatments. 
 ## Key Quotes
 
->[[Sensory processing disorder (SPD)]] (aka sensory integration dysfunction) refer to conditions that are generated when a person’s brain is not able to integrate or organize (part of) the flow of sensory impulses so as to provide the individual with good, accurate information about herself/himself or the world around her/him, and can affect one or more senses at the same time 
+>[[Sensory processing Disorder (SPD)]] (aka sensory integration dysfunction) refer to conditions that are generated when a person’s brain is not able to integrate or organize (part of) the flow of sensory impulses so as to provide the individual with good, accurate information about herself/himself or the world around her/him, and can affect one or more senses at the same time 
 >... 16% (1 in 6) children aged from 7 to 11 years suffer from this condition in the US 
 ## Experimental Design
 
 >In order to allow OTs to evaluate the system, our process involved presenting Imaginator to the OT, and then making the system available to them in their treatment environment for approximately 2 to 3 weeks, and ﬁnally interviewing them about their experience in using the system. To collect data about the OTs experience we used semi-structured interviews, which allowed us to collect deep insights of the OTs experience and attitude towards the system.
 ## Participants
 
->have a formal degree as an OT, have at least 4 years of practical experience, and have experience in the treatment of [[Sensory processing disorder (SPD)]] 
+>have a formal degree as an OT, have at least 4 years of practical experience, and have experience in the treatment of [[Sensory processing Disorder (SPD)]] 
 
->patients that were diagnosed as having [[Sensory processing disorder (SPD)]], aged between 4-15 years ... presented other comorbidities such as: [[Learning disability]], [[Autism]], [[Asperger syndrome]], [[Language disorder]], difficult in [[Motor coordination]] and [[ADHD]] 
+>patients that were diagnosed as having [[Sensory processing Disorder (SPD)]], aged between 4-15 years ... presented other comorbidities such as: [[Learning disability]], [[ASD]], [[Asperger syndrome]], [[Language disorder]], difficult in motor coordination and [[ADHD]] 
 
 ## Procedures
 
@@ -55,10 +55,10 @@ OT = Occupational Therapist
 >difficulties in getting the system ready to use. 
 ## Conclusion
 
->All of the participants said they would consider using the system in their treatments, not only for [[Sensory processing disorder (SPD)]], but also for patients with other comorbidities. 
+>All of the participants said they would consider using the system in their treatments, not only for [[Sensory processing Disorder (SPD)]], but also for patients with other comorbidities. 
 
 >it would be interesting if the patient could have a virtual body within the system ...
->adding to the scenarios animate agents (e.g. people, animals or characters). These agents could be interesting in working other aspects associated to [[Sensory processing disorder (SPD)]] or other disorders, such as social interaction. 
+>adding to the scenarios animate agents (e.g. people, animals or characters). These agents could be interesting in working other aspects associated to [[Sensory processing Disorder (SPD)]] or other disorders, such as social interaction. 
 >it could be interesting to allow the therapist to control not only if the sound is on or off, but also its volume, or even what sound effect should be associated to a given event 
 
 >that besides being able to stimulate five different senses, it was very motivating to patients, which is a factor of great importance in the treatment 

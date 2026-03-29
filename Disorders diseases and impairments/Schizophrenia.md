@@ -1,0 +1,2 @@
+[[DSM-5]]
+>“abnormalities in one or more of the following five domains: delusions, hallucinations, disorganized thinking (speech), grossly disorganized or abnormal motor behavior (including catatonia), and negative symptoms” (“Diagnostic and statistical manual of mental disorders: DSM-5”, 2013, p. 125)

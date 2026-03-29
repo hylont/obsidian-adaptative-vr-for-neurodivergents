@@ -1,8 +1,10 @@
 ---
 author: Adnan Mazraeh
-year: "2025"
+year: 2025
 url: https://medium.com/@adnan.mazraeh1993/week-4-fuzzy-inference-systems-fis-ab7758d80800
 ---
+One of the [[Adaptative Virtual Reality (AVR)]] methods to adapt parameters
+
 
 A typical FIS consists of four main components:
 

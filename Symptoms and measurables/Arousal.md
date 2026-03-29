@@ -1,0 +1,2 @@
+See Arousal Systems by Barbara Jones
+>“The brain contains autochthonous neural systems that evoke waking from sleep in response to sensory stimuli, prolong or enhance arousal in response to special stimuli, and also generate and maintain wakefulness regardless of sensory stimuli during the active part of the day.”

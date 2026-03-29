@@ -3,7 +3,7 @@ author: Little (with Dunn)
 year: 2016
 keyword1: "[[ADHD]]"
 keyword2: "[[ASD]]"
-keyword3: "[[Latent profile analysis]]"
+keyword3: Latent profile analysis
 keyword4: "[[Sensory processing]]"
 doi: 10.1111/cch.12391
 ---
@@ -16,7 +16,7 @@ doi: 10.1111/cch.12391
 
 >This cross-sectional study used a sample (n= 1132) gathered from a larger study of the reliability and validity of the Sensory Profile 2nd Edition Child Form [[SSP]] (Dunn 2014). Participants were recruited across the USA, and data were collected online.
 
->For the current analysis, we included 1132 participants aged 3–14 years with parent-reported typical development (n=788), [[ASD]] (n= 77), [[ADHD]] (n= 96), [[ASD]]+[[ADHD]] (n= 24), [[Learning disability]] (n = 44), [[Intellectual disability]] (n = 9), [[Down syndrome]] (n= 9), [[developmental delay]] (n= 11) and other conditions (n= 58). The other conditions group included children with a history of low birthweight and prematurity. The sample included those identified as gifted and talented as well (n= 18)
+>For the current analysis, we included 1132 participants aged 3–14 years with parent-reported typical development (n=788), [[ASD]] (n= 77), [[ADHD]] (n= 96), [[ASD]]+[[ADHD]] (n= 24), [[Learning disability]] (n = 44), [[Intellectual disability]] (n = 9), [[Down syndrome]] (n= 9), [[Developmental delay]] (n= 11) and other conditions (n= 58). The other conditions group included children with a history of low birthweight and prematurity. The sample included those identified as gifted and talented as well (n= 18)
 ## Results
 
 >We investigated the results of three to six [[Sensory subtypes (or phenotypes)]], and we considered the four and five profile solutions ... Therefore, we identified the five profile solutions as most optimal 

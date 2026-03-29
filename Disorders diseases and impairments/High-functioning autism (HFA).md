@@ -1,0 +1,1 @@
+At the opposite of the [[Low-functioning autism (LFA)]]

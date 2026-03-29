@@ -1,0 +1,2 @@
+[[Olfactory Nomenclature - An Orchestrated Effort to Clarify Terms and Definitions of Dysosmia]]
+>“anosmia” as an umbrella term for cases where the assessment of the sense of smell shows no usable olfactory function. Olfactory tests show scores below the lower limit for hyposmia.” (Hernandez et al., 2023, p. 314)

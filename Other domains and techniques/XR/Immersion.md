@@ -1,0 +1,2 @@
+[[Le traité de la Réalité Virtuelle]]
+>Dans un dispositif de réalité virtuelle, l’utilisateur est immergé dans un monde virtuel et peut interagir avec ce monde artificiel. Dans un premier niveau d’immersion et d’interaction sensori-motrices, le sujet est connecté à l’ordinateur par ses sens et  ses réponses motrices via des interfaces matérielles

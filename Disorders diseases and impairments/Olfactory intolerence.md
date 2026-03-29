@@ -1,0 +1,3 @@
+[[Olfactory Nomenclature - An Orchestrated Effort to Clarify Terms and Definitions of Dysosmia]]
+>self-reported olfactory function or dysfunction that is not confirmed by psychophysical olfactory testing.
+>"the term “olfactory intolerance” which we propose instead of “subjective hyperosmia.” This is to avoid confusion, given that “hyperosmia” is not considered as a pathologic state, while “olfactory intolerance” is.” (Hernandez et al., 2023, p. 318)

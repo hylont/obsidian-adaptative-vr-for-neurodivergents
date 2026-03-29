@@ -1,6 +1,6 @@
 ---
 author: Bruno Wicker
-year: "2016"
+year: 2016
 doi: 10.1186/s13229-016-0070-3
 keyword1: "[[ASD]]"
 keyword2: "[[Hyperresponsiveness]]"
@@ -23,14 +23,14 @@ keyword4: "[[Suprathreshold detection]]"
 >We hypothesized that individuals with [[ASD]] would make modified intensity and [[Pleasantness judgment]] , perceiving odors more intense and/or more unpleasant than control participants. They would display a greater number of errors compared to control participants in the [[Suprathreshold detection]] task because they would adopt a more liberal decision criterion than the control participants, and would have reduced identification performances
 # Experimental Design & Procedure
 
->The entire experiment comprised four successive tests: [[Suprathreshold detection]], [[Intensity judgment]], [[Pleasantness judgment]]s , and identification
+>The entire experiment comprised four successive tests: [[Suprathreshold detection]], [[Smell intensity]] judgment, [[Pleasantness judgment]]s , and identification
 
 >The order of the tests was identical for all participants. In each test, the experimenter presented a jar containing an odorant under the participant’s nose in 30-s intervals, with each odorant presented for approximately 5 s
 
  - [[Suprathreshold detection]]
  >This test included 24 trials in which the participants were required to decide whether the stimuli were odorant or non-odorant (NO). They responded orally “yes” or “no,”
 
-- [[Intensity judgment]] and [[Pleasantness judgment]]
+- [[Smell intensity]] judgment and [[Pleasantness judgment]]
 >the intensity and pleasantness judgment tests were successively performed using two sets of the same 12 odorants: rose, caramel, tar, banana, onion, vanilla, camphor, guaiacol, anise, cyclohexane, tomato, and bitter almond. The participants judged to what extent they perceived the odors as intense (intensity test) or pleasant (pleasantness test) using a segmented linear rating scale ranging from 0 to 10.
 
 - Identification
@@ -65,7 +65,7 @@ keyword4: "[[Suprathreshold detection]]"
 
 >Two studies have reported normal olfactory identification in children with [[ASD]] [9, 90], but the discrepancies between studies can be explained by the limited odor identification abilities of the youngest children
 
->An atypical ability to identify odors has been recently suggested to result from a reduced facility to use verbal labels and has been associated with [[Autism]] rather than [[Asperger syndrome]]
+>An atypical ability to identify odors has been recently suggested to result from a reduced facility to use verbal labels and has been associated with [[ASD]] rather than [[Asperger syndrome]]
 
 >observed a higher number of near and far misses in the individuals with [[ASD]] than in the control participants
 
@@ -93,7 +93,7 @@ keyword4: "[[Suprathreshold detection]]"
 # Synthesis
 
 This study tries to find how [[Olfactory]] perception is different between [[Typically developed (TD)]] and [[ASD]] adults.
-The entire experiment comprised four successive tests: [[Suprathreshold detection]], [[Intensity judgment]], [[Pleasantness judgment]]s , and identification
+The entire experiment comprised four successive tests: [[Suprathreshold detection]], [[Smell intensity]] judgment, [[Pleasantness judgment]]s , and identification
 Basically, [[ASD]] have lower supra-threshold detection scores, rated smells to be more intense than controls, and had more difficulties identifying smells ([[ADHD]] ?). They classified pleasant and unpleasant smells the same as controls.
 A difficulty can be to monitor responses, that can be the opposite of sensory sensitivity
 # Images
