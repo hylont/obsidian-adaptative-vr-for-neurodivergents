@@ -1,6 +1,6 @@
 ---
 author: Berenice Serrano
-year: "2016"
+year: 2016
 doi: 10.1016/j.chb.2015.08.007
 keyword1: "[[Virtual Reality]]"
 keyword2: "[[Olfaction]]"
@@ -40,7 +40,7 @@ keyword3: "[[Augmented Virtuality]]"
 
 >“Clearly, further research is needed.” (Serrano, p. 7)
 
-# Synthsis
+# Synthesis
 
 In this study, the authors try to prove that multimodal (visual, haptic, [[Olfactory]]) stimuli increase [[Presence]] and relaxation.
 However the stimulation of touch and/or smell does not appear to significantly improve the state of relaxation. It also appears that multiple stimuli had limited negative effects on relaxation, anxiety and sadness. However joy and arousal were a little bit increased. 

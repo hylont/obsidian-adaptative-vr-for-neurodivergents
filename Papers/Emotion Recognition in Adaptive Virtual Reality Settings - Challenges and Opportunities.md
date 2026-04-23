@@ -1,6 +1,6 @@
 ---
 author: Seyed Muhammad Hossein Mousavi
-year: "2023"
+year: 2023
 doi: 10.3389/fpsyg.2023.1280136
 ---
 # Intro

@@ -1,0 +1,3 @@
+Sensory integration 
+[[Sensory processing disorder - Key points of a frequent alteration in neurodevelopmental disorders]]
+>“Some authors divide the SI process in 4 phases (Del Moral Orro et al., 2013): registration (the brain receives sensory information from sense organs); modulation (allows the regulation of stimulus intensity); discrimination (the stimulus is organized and interpreted to distinguish its relevance, characteristics and specific qualities) and response (the brain integrates all the processed stimuli to generate an appropriate response that will lead to a particular behavior and movements)” (Galiana-Simal et al., 2020, p. 2)

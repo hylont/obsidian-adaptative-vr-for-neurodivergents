@@ -1,6 +1,6 @@
 ---
 author: Olivier Baus
-year: "2022"
+year: 2022
 doi: 10.1080/23311908.2022.2115690
 keyword1: "[[Virtual Reality]]"
 keyword2: "[[Presence]]"

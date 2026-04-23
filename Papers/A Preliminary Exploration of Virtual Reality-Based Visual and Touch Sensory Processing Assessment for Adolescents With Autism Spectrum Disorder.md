@@ -15,7 +15,7 @@ doi: " 10.1109/TNSRE.2021.3064148"
 [[Avoidance]]
 ## Objectives
 
->explore if Virtual Reality  has the potential to be used specifically as a tool to evaluate the special Sensory processing pattern in children with ASD. 
+>explore if Virtual Reality has the potential to be used specifically as a tool to evaluate the special Sensory processing pattern in children with ASD. 
 
 >We hypothesized that: 1) compared to Adult-Adolescent Sensory Profile (AASP), SAVR could detect more significant differences between the two participant groups, and 2) there are significant and strong correlations between the SAVR results and the Adult-Adolescent Sensory Profile (AASP) results. 
 ## Experimental Design

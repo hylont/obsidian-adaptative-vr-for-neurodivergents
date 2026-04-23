@@ -4,70 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "7a13c9e44de9fd0c",
+        "id": "645cf8bb5f989575",
         "type": "tabs",
         "children": [
           {
-            "id": "7ba5b905e7e74fff",
+            "id": "1618adeaeb39ac48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other domains and techniques/Stimuli.md",
+                "file": "Papers/Environnement et santé publique - Odeurs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Stimuli"
+              "title": "Environnement et santé publique - Odeurs"
             }
           },
           {
-            "id": "e759adadbae38187",
+            "id": "5dc7169ed215d3b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disorders diseases and impairments/Parosmia.md",
+                "file": "Synthesis and protocols/PROTOCOL1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Parosmia"
+              "title": "PROTOCOL1"
             }
           },
           {
-            "id": "acd60d31fe9187cb",
+            "id": "edecd5d14054f654",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disorders diseases and impairments/Phantosmia.md",
+                "file": "Papers/Measuring Visual Fatigue and Cognitive Load via Eye Tracking while Learning with Virtual Reality Head-Mounted Displays - A Review.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Phantosmia"
-            }
-          },
-          {
-            "id": "f6041d3aac1a86ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "_README"
+              "title": "Measuring Visual Fatigue and Cognitive Load via Eye Tracking while Learning with Virtual Reality Head-Mounted Displays - A Review"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 399.5
   },
   "right": {
     "id": "0e1dc361b5971035",
@@ -140,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other domains and techniques/Stimuli.md",
+                "file": "Synthesis and protocols/PROTOCOL1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Stimuli"
+              "title": "Rétrolien pour PROTOCOL1"
             }
           },
           {
@@ -207,7 +193,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -225,35 +212,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8306cdeddb27491c",
+  "active": "5dc7169ed215d3b2",
   "lastOpenFiles": [
-    "Other domains and techniques/XR/Augmented Virtuality.md",
-    "Other domains and techniques/XR/XR.md",
-    "Papers/Evaluating a virtual reality sensory room for adults with disabilities.md",
-    "Wellbeing.md",
-    "Other domains and techniques/Stimuli.md",
-    "Symptoms and measurables/Visual search.md",
-    "Other domains and techniques/XR/Virtual Reality.md",
-    "Other domains and techniques/XR/Virtual environment.md",
-    "Other domains and techniques/Typically developed (TD).md",
-    "Symptoms and measurables/Suprathreshold detection.md",
+    "Papers/Environnement et santé publique - Odeurs.md",
+    "Papers/Measuring Visual Fatigue and Cognitive Load via Eye Tracking while Learning with Virtual Reality Head-Mounted Displays - A Review.md",
+    "Synthesis and protocols/PROTOCOL1.md",
+    "Papers/TODO/Research Hypothesis - A Brief History, Central Role in Scientific Inquiry, and Characteristics.md",
+    "attachments/Pasted image 20260421183059.png",
+    "attachments/Pasted image 20260421183038.png",
+    "attachments/Pasted image 20260421182919.png",
+    "attachments/Pasted image 20260421182804.png",
+    "attachments/Pasted image 20260421182439.png",
+    "attachments/Pasted image 20260421182405.png",
+    "attachments/Pasted image 20260421182337.png",
+    "Sensory classifications/Sensory profiles/Taste and Smell Sensitivity (TSS).md",
+    "Papers/Olfaction in autism spectrum disorders A systematic review.md",
     "Papers/Olfactory processing in adults with autism spectrum disorders.md",
-    "Disorders diseases and impairments/Misophonia.md",
-    "Disorders diseases and impairments/Neurodiverse.md",
-    "Disorders diseases and impairments/Parkinson's disorder (PD).md",
-    "Disorders diseases and impairments/Phonophobia.md",
-    "Disorders diseases and impairments/Neurological disorder.md",
-    "Disorders diseases and impairments/Low-functioning autism (LFA).md",
-    "Disorders diseases and impairments/Intellectual disability.md",
-    "Disorders diseases and impairments/Hyperresponsiveness (or hyperreactivity).md",
-    "Disorders diseases and impairments/Hyperacusis.md",
-    "Disorders diseases and impairments/Huntington's chorea.md",
-    "Disorders diseases and impairments/Dyspraxia.md",
-    "Disorders diseases and impairments/Dysosmia.md",
-    "Disorders diseases and impairments/Developmental delay.md",
-    "Symptoms and measurables/Stress.md",
-    "Symptoms and measurables/Stimulus novelty.md",
-    "attachments/Pasted image 20260330000735.png",
+    "attachments/Pasted image 20260415170948.png",
+    "attachments/Pasted image 20260415170938.png",
+    "attachments/Pasted image 20260415170852.png",
+    "Papers/Virtual Reality and Autism Spectrum Disorder - Emergence of Sensory-Motor and Olfactory Potentialities in an Anthropocentric Epistemological Approach.md",
+    "Papers/TODO/_EXAMPLE.md",
+    "Synthesis and protocols/LV Poster 2026.md",
+    "Synthesis and protocols/LVDoctoriales.md",
+    "Questionnaires/NASA-TLX.md",
+    "Questionnaires/Questionnaire of User Interface Satisfaction (QUIS).md",
+    "Questionnaires/System Usability Scale (SUS).md",
+    "Papers/Emotion Recognition in Adaptive Virtual Reality Settings - Challenges and Opportunities.md",
+    "Papers/Imaginator - A Virtual Reality Based Game for the Treatment of Sensory Processing Disorders.md",
+    "Papers/Designing virtual reality tools for students with Autism Spectrum Disorder A systematic review.md",
+    "Papers/Classifying sensory profiles of children in the general population.md",
+    "Papers/Attention to novelty versus repetition - Contrasting habituation profiles in Autism and Williams syndrome.md",
+    "Papers/Application of Supervised Machine Learning for Behavioral Biomarkers of Autism Spectrum Disorder Based on Electrodermal Activity and Virtual Reality.md",
+    "Papers/Adaptive Virtual Reality Solutions - A Literature Review.md",
+    "Papers/A Review of Olfactory Display Designs for Virtual Reality Environments.md",
+    "Papers/A Process-Model for Minimizing Adverse Effects when Using Head Mounted Display-Based Virtual Reality for Individuals with Autism.md",
+    "Papers/A Preliminary Exploration of Virtual Reality-Based Visual and Touch Sensory Processing Assessment for Adolescents With Autism Spectrum Disorder.md",
+    "Papers/The impact of visual and auditory distractions on the performance of neurodiverse students in virtual reality (VR) environments.md",
+    "attachments/DunnSensoryProcessingPatterns.png.0.pdnSave",
     "Questionnaires/Tools",
     "Papers/TODOWhenBored",
     "Other domains and techniques/XR",
@@ -262,16 +258,6 @@
     "Sensory classifications",
     "Communicative Responses",
     "Olfaction keywords",
-    "Other domains and techniques",
-    "Symptoms and measurables",
-    "attachments/Pasted image 20260328165210.png",
-    "attachments/Pasted image 20260327182838.png",
-    "attachments/Pasted image 20260323170609.png",
-    "attachments/Pasted image 20260323170534.png",
-    "attachments/Pasted image 20260319175056.png",
-    "attachments/Pasted image 20260319174909.png",
-    "attachments/Pasted image 20260319174853.png",
-    "attachments/Pasted image 20260319172701.png",
-    "attachments/Pasted image 20260319172637.png"
+    "Other domains and techniques"
   ]
 }

@@ -1,6 +1,6 @@
 ---
 author: Henrique Rossi
-year: "2018"
+year: 2018
 doi: 10.1109/SeGAH.2018.8401355
 keyword1: "[[Virtual Reality]]"
 keyword2: "[[Sensory processing]]"
