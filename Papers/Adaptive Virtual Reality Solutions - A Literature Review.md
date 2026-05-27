@@ -1,5 +1,5 @@
 ---
-author: " Pedro Henrique Barcha Correia"
+author: Pedro Henrique Barcha Correia
 year: 2024
 keyword1: "[[Adaptative Virtual Reality (AVR)]]"
 doi: 10.1145/3691573.3691574

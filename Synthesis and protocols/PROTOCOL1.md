@@ -13,14 +13,7 @@ H3 : Strong olfactive stimuli increases cognitive load while decreasing performa
 
 # Pre-studies
 
-## 1 - Pleasantness judgment
-
-Using 10 scents that could be present in a supermarket environment and that could be represented in a hand-sized object, we ask participants to push buttons to release them, and ask them directly how pleasant they find them using a line-drawing method.
-The goal is to find the scents that are the most neutral in terms of pleasantness according to answers.
-## 2 - Intensity correlations
-
-Using the 3 scents that have been identified by the previous study, we aim to find their intensity pair with butanol.
-
+**(3 8 22 61 166 400 ?)**
 # Experience
 
 ## Measures
@@ -56,26 +49,11 @@ Using the 3 scents that have been identified by the previous study, we aim to fi
 - Comment terminer une tâche :
 	- Bouton "quitter d'urgence" ([[Investigation into Stress Triggers in Autistic Adults for the Development of Technological Self-Interventions]])
 	- Fin du scénario
-## Things to answer before:
-- [x] Trouver plusieurs scénarios de tâches adaptées aux neuroa [[Designing virtual reality tools for students with Autism Spectrum Disorder A systematic review]]
-	- Distractors [[The impact of visual and auditory distractions on the performance of neurodiverse students in virtual reality (VR) environments]] : 3 corners of the room (one for each flavor), the participant grabs an item that will diffuse a scent, then the participant has to find the distractors like in the mentioned experiment. 6 or 9 expositions (2 mild, 2 medium, 2 high at random)
-	  Can't make too much expositions due to odor adaptation that will decrease odor detection and perceived intensity ([[Psychophysical and Behavioral Characteristics of Olfactory Adaptation]])
-	- Supermarché [[Virtual Reality and Autism Spectrum Disorder - Emergence of Sensory-Motor and Olfactory Potentialities in an Anthropocentric Epistemological Approach]], Bozgeyikli et al. (2017)
-	  In a shop, do groceries freely (more info needed)
-- [ ] Trouver les différents paramètres olfactifs
-	- [ ] Intensité (par rapport à du n-buthanol ?) [[Odor Intensity and pleasantness for a diverse set of odorants]]
-- [ ] Si impact, trouver les questionnaires
-	- [ ] Satisfaction (scenario B)
-	- [ ] Performance (scénario A)
-	- [ ] Cognitive / sensory load
-	- [ ] Utilisabilité (scénario B)
-	- [ ] Performance (scénario A) ([[Olfaction in autism spectrum disorders A systematic review]])
-	- [ ] [[Presence]] ([[A Review of Olfactory Display Designs for Virtual Reality Environments]]) => secondaire selon Guillaume
 ## Hardware possibilities:
 
 - https://www.eyetrackvr.dev/ & https://www.youtube.com/watch?v=PhRpa6c0FjE
 - Varjo headsets (https://www.reddit.com/r/oculus/comments/1afhdyl/is_there_any_way_to_get_pupil_size_and_eye/)
-- 
+- Meta Quest Pro
 
 # In french
 
