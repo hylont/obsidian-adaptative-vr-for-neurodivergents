@@ -1,0 +1,3 @@
+[[A general recognition theory model for identifying an ideal stimulus]]
+>“The unfolding model assumes that when judging one’s hedonic responses to a set of objects—for example, foods, beverages, or paintings—the observer imagines their ideal object within that category and then compares each object in the set to this imagined ideal. The objects are then ordered by preference according to their similarity to the ideal. So the most preferred object is the one that is most similar to the imagined ideal and the least preferred is the one that is least similar to the ideal” (Inglis et al., 2022, p. 2408)
+>“it is less successful at identifying the sensory characteristics associated with the imagined ideal” (Inglis et al., 2022, p. 2408)

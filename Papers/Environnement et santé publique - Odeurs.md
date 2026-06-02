@@ -55,7 +55,7 @@ keyword10:
 
 ## Acceptabilité
 
->“L’acceptabilité représente le caractère hédonique de l’odeur (son côté agréable ou non)” (Cariou et al., 2023, p. 774)
+>“L’acceptabilité représente le caractère hédonique de l’odeur (son côté agréable ou non)” (Cariou et al., 2023, p. 774)Z
 
 >“L’origine ethnoculturelle va engendrer des différences de perception par les « us et coutumes » et, par conséquent, d’acceptabilité des odeurs. Cette notion est mesurée par une valeur de ton hédonique” (Cariou et al., 2023, p. 774)
 

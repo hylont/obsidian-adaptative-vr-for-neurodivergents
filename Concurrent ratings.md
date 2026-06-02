@@ -1,0 +1,3 @@
+[[A general recognition theory model for identifying an ideal stimulus]]
+>“One experimental method for estimating the sensory characteristics of a stimulus, which is popular within the field of perception, is called the concurrent-ratings task” (Inglis et al., 2022, p. 2408)
+“participants rate the magnitude of each stimulus simultaneously on a number of sensory dimensions, and then the observed ratings are used to estimate the participant’s sensory, perceptual, or cognitive impressions of the stimulus” (Inglis et al., 2022, p. 2408)

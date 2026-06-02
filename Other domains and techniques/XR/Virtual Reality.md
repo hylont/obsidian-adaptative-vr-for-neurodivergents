@@ -6,5 +6,4 @@
 >VR can be described as a virtual 3D environment that can replicate real experiences where participants can interact as if they were in the real world
 
 [[Le traité de la Réalité Virtuelle]]
->“La réalité virtuelle est un domaine scientifique et technique exploitant l’informatique (1) et des interfaces comportementales (2) en vue de simuler dans un monde virtuel (3) le comportement d’entités 3D, qui sont en interaction en temps réel (4) entre elles et avec un ou des utilisateurs en immersion pseudo-naturelle (5) par l’intermédiaire de canaux sensori-moteurs.” (“Le Traité de la réalité virtuelle”, p. 41)
 >“La réalité virtuelle est un domaine scientifique et technique exploitant l’informatique et des interfaces comportementales en vue de simuler dans un monde virtuel le comportement d’entités 3D, qui sont en interaction en temps réel entre elles et avec un ou des utilisateurs en immersion pseudo-naturelle par l’intermédiaire de canaux sensori-moteurs.” (“Le Traité de la réalité virtuelle”, p. 41)
