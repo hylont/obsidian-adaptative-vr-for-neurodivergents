@@ -16,8 +16,8 @@ keyword2: "[[Stress]]"
 ## Caregivers
 
 >“Sixty three percent (n = 46) were identifed as tending towards hypersensitivity to light (level 4)” (McGowan and Mcgregor, 2023, p. 4)
-“Regarding sound, 38% and 60% tended towards hypersensitivity at levels 4 and 5 respectively” (McGowan and Mcgregor, 2023, p. 4)
-“Respondents identifed touch across a wider range, tending towards hypersensitivity, with the majority at level 5 (33%).” (McGowan and Mcgregor, 2023, p. 4)
+>“Regarding sound, 38% and 60% tended towards hypersensitivity at levels 4 and 5 respectively” (McGowan and Mcgregor, 2023, p. 4)
+>“Respondents identifed touch across a wider range, tending towards hypersensitivity, with the majority at level 5 (33%).” (McGowan and Mcgregor, 2023, p. 4)
 
 >“Thirty eight percent were reported as calm in the park, with a wider spread of scores regarding the street, with 35% and 26% at levels 3 and 4 respectively. Fifty six percent were reported as anxious within a café/restaurant, 34% and 29% as stressed or highly stressed in a bar, while most people were reported with higher levels of stress on public transport with the majority at level 4 (40%). Indications were that most people felt relatively calm (65% at level 2) within a private car, however, the majority were at levels 4 and 5 with 16% and 41% respectively regarding large public events” (McGowan and Mcgregor, 2023, p. 4)
 

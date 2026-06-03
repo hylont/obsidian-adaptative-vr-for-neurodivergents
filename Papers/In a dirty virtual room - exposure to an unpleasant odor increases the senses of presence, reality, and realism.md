@@ -8,6 +8,7 @@ keyword3: "[[Olfaction]]"
 ---
 [[Pleasantness judgment]]
 [[Smell intensity]]
+[[Olfactive VR]]
 ## Introduction
 
 >“exposure to the unpleasant odor, but not to the pleasant one, had a significant effect on Presence. However, exposure to neither odor had an effect on the senses of Reality or Realism.” (Baus et al., 2022, p. 2)

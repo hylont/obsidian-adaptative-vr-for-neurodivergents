@@ -25,6 +25,21 @@
             }
           },
           {
+            "id": "10bfaf03b6bdcdf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Synthesis and protocols/SYNTHESIS2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "SYNTHESIS2"
+            }
+          },
+          {
             "id": "28e5553a61bb1991",
             "type": "leaf",
             "state": {
@@ -34,8 +49,28 @@
               "title": "Vue graphique"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "523c79687243e331",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd3e59255ea97d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Measuring Visual Fatigue and Cognitive Load via Eye Tracking while Learning with Virtual Reality Head-Mounted Displays - A Review.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Measuring Visual Fatigue and Cognitive Load via Eye Tracking while Learning with Virtual Reality Head-Mounted Displays - A Review"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "0e1dc361b5971035",
@@ -108,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Synthesis and protocols/Etat de l'art.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +154,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Rétrolien pour Etat de l'art"
             }
           },
           {
@@ -177,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,44 +229,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28e5553a61bb1991",
+  "active": "06c10485b287df4a",
   "lastOpenFiles": [
-    "Synthesis and protocols/Etat de l'art.md",
-    "Papers/Human senses and sensors from Aristotle to the present.md",
-    "Olfaction keywords/Olfactory adaptation.md",
-    "attachments/Pasted image 20260602112313.png",
-    "Papers/TODO/Multivariate Analysis of Olfactory Profiles for 140 Perfumes as a Basis to Derive a Sensory Wheel for the Classification of Feminine Fragrances.md",
-    "Papers/Environnement et santé publique - Odeurs.md",
-    "Papers/A Review of Olfactory Display Designs for Virtual Reality Environments.md",
-    "Olfaction keywords/Scent.md",
-    "Papers/TODO/ICD.md",
-    "attachments/Pasted image 20260602104624.png",
-    "Olfaction keywords/Olfaction.md",
-    "Papers/TODO/A general recognition theory model for identifying an ideal stimulus.md",
-    "Interoception.md",
-    "Vestibular system.md",
-    "Proprioception.md",
-    "Papers/Investigation into Stress Triggers in Autistic Adults for the Development of Technological Self-Interventions.md",
-    "Papers/Does Virtual Odor Representation Influence the Perception of Olfactory Intensity and Directionality in VR.md",
-    "Olfaction keywords/Olfactory.md",
-    "Papers/Exploring Multisensory Extended Reality Approaches for Autistic Children - Improve Well-Being and Assess Auditory Perception.md",
-    "Papers/Olfaction in autism spectrum disorders A systematic review.md",
     "Papers/Measuring Visual Fatigue and Cognitive Load via Eye Tracking while Learning with Virtual Reality Head-Mounted Displays - A Review.md",
+    "Synthesis and protocols/Etat de l'art.md",
+    "Papers/Le traité de la Réalité Virtuelle.md",
+    "attachments/Pasted image 20260603233704.png",
+    "Papers/Investigation into Stress Triggers in Autistic Adults for the Development of Technological Self-Interventions.md",
+    "attachments/Pasted image 20260603195828.png",
+    "Papers/In a dirty virtual room - exposure to an unpleasant odor increases the senses of presence, reality, and realism.md",
+    "attachments/Pasted image 20260603194857.png",
+    "Papers/Imaginator - A Virtual Reality Based Game for the Treatment of Sensory Processing Disorders.md",
+    "Papers/Human senses and sensors from Aristotle to the present.md",
+    "attachments/Pasted image 20260603185414.png",
+    "Papers/Gustofacial and Olfactofacial Responses in Human Adults.md",
+    "attachments/Pasted image 20260603184715.png",
+    "Papers/Exploring Multisensory Extended Reality Approaches for Autistic Children - Improve Well-Being and Assess Auditory Perception.md",
+    "attachments/Pasted image 20260603183715.png",
+    "Papers/Evaluating a virtual reality sensory room for adults with disabilities.md",
+    "attachments/Pasted image 20260603183019.png",
+    "Papers/Environnement et santé publique - Odeurs.md",
     "Papers/Emotion Recognition in Adaptive Virtual Reality Settings - Challenges and Opportunities.md",
-    "Papers/A Process-Model for Minimizing Adverse Effects when Using Head Mounted Display-Based Virtual Reality for Individuals with Autism.md",
-    "Papers/A Mechanistic Link between Olfaction and Autism Spectrum Disorder.md",
-    "Papers/Virtual Reality and Autism Spectrum Disorder - Emergence of Sensory-Motor and Olfactory Potentialities in an Anthropocentric Epistemological Approach.md",
-    "Papers/Adaptive virtual reality systems employed for children with autism spectrum disorder interventions - a systematic review.md",
+    "Papers/DSM-5.md",
+    "attachments/Pasted image 20260603180407.png",
+    "Papers/Does Virtual Odor Representation Influence the Perception of Olfactory Intensity and Directionality in VR.md",
+    "Papers/Designing virtual reality tools for students with Autism Spectrum Disorder A systematic review.md",
+    "attachments/Pasted image 20260603174825.png",
+    "Papers/Classifying sensory profiles of children in the general population.md",
+    "attachments/Pasted image 20260603174019.png",
+    "Papers/Attention to novelty versus repetition - Contrasting habituation profiles in Autism and Williams syndrome.md",
+    "Papers/Application of Supervised Machine Learning for Behavioral Biomarkers of Autism Spectrum Disorder Based on Electrodermal Activity and Virtual Reality.md",
     "Papers/Adaptive Virtual Reality Solutions - A Literature Review.md",
+    "Papers/A Review of Olfactory Display Designs for Virtual Reality Environments.md",
+    "Papers/A Process-Model for Minimizing Adverse Effects when Using Head Mounted Display-Based Virtual Reality for Individuals with Autism.md",
     "Papers/A Preliminary Exploration of Virtual Reality-Based Visual and Touch Sensory Processing Assessment for Adolescents With Autism Spectrum Disorder.md",
-    "attachments/Pasted image 20260531122118.png",
-    "attachments/Pasted image 20260528012321.png",
-    "attachments/Pasted image 20260528012317.png",
-    "attachments/Pasted image 20260511184238.png",
-    "attachments/Pasted image 20260511184208.png",
-    "attachments/Pasted image 20260421183059.png",
-    "attachments/Pasted image 20260421183038.png",
-    "attachments/Pasted image 20260421182919.png",
+    "Papers/A Mechanistic Link between Olfaction and Autism Spectrum Disorder.md",
+    "Papers/SCENTAUR - An Encountered-Type Olfactory Display for Large-Scale Smell Interaction in Virtual Reality.md",
+    "Synthesis and protocols/SYNTHESIS2.md",
+    "Papers/Virtual reality and stimulation of touch and smell for inducing relaxation - A randomized controlled trial.md",
+    "_deprecated",
     "attachments/DunnSensoryProcessingPatterns.png.0.pdnSave",
     "Questionnaires/Tools",
     "Papers/TODOWhenBored",
@@ -237,7 +276,6 @@
     "Behaviours",
     "Sensory classifications",
     "Communicative Responses",
-    "Olfaction keywords",
-    "Other domains and techniques"
+    "Olfaction keywords"
   ]
 }

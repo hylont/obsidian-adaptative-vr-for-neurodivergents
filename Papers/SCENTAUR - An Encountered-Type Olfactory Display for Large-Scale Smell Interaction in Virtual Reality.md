@@ -1,6 +1,6 @@
 ---
 author: Hugo Brument
-year: "2025"
+year: 2025
 doi: 10.2312/egve.20251345
 ---
 ## Introduction

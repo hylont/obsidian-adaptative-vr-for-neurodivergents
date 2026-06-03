@@ -28,11 +28,11 @@ keyword3: "[[Habituation]]"
 
 >In each trial, two shapes appear simultaneously on the left and right sides of the computer screen, both describing a 360◦ spin rotation, one each to the left and right of the child’s midline. One shape was different on every trial (the novel stimulus), while the other remained unchanged across trials (the repeating stimulus). 
 
->“Dur- ing observation of the video-stimuli, participants’ eye-movements were recorded using the eye-tracker system and analysed using frame-by-framedefinedareas ofinterest” (Vivanti et al., 2018, p. 3)
+>“During observation of the video-stimuli, participants’ eye-movements were recorded using the eye-tracker system and analysed using frame-by-frame defined areas of interest” (Vivanti et al., 2018, p. 3)
 
 >“The two regions of interest included in the analyses were the novel stimulus and the repeating stimulus.” (Vivanti et al., 2018, p. 3)
 
->“The rate of change (slope) of attention duration to the Novel and to the Repeating stimuli over trials was computed to mea- sure habituation. To show habituation to the repeating stimulus, participants’ attention to the novel stimulus should increase while their attention to the repeating stimulus should decrease over trials (Fantz, 1964; Colombo and Mitchell, 2009)” (Vivanti et al., 2018, p. 3)
+>“The rate of change (slope) of attention duration to the Novel and to the Repeating stimuli over trials was computed to measure habituation. To show habituation to the repeating stimulus, participants’ attention to the novel stimulus should increase while their attention to the repeating stimulus should decrease over trials (Fantz, 1964; Colombo and Mitchell, 2009)” (Vivanti et al., 2018, p. 3)
 # Measures
 
 >“The habituation protocol measured the fixation duration to a repeating stimulus and to a novel stimulus presented side by side on a computer screen across nine trials presented in a fixed random order.” (Vivanti et al., 2018, p. 56)
