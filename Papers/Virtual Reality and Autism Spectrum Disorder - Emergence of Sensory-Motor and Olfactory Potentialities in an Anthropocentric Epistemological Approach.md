@@ -27,7 +27,7 @@ keyword3: "[[ASD]]"
 >The equipment was also modified to facilitate observation of the VE, for example by replacing a fixed chair with a swivel chair
 
 >A meta Quest 2 headset was used to immerse the participants in the virtual supermarket. 
->They had to collect different products from the shelves in a basket, according to their wishes, in order to enable selfdetermination.
+>They had to collect different products from the shelves in a basket, according to their wishes, in order to enable self-determination.
 
 >A guide-experimenter pressed a key on the keyboard to teleport the participants from point to point in the shop: bakery, fishmonger, fruit, flowers, bookshop.
 

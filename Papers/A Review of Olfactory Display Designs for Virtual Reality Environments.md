@@ -88,7 +88,7 @@ keyword6: "[[Olfactive VR]]"
 
 >Oh and Whangbo measured EEG data and found significant differences in concentration, sense of stability, and stress when the smell was used [136]. Ranasinghe et al
 
->research with perception has also looked at the effect of smell on realism [14, 15, 41], the sense of reality [15, 16], the sense of existence [135], the sense of involvement [65], emotion [41, 59, 150, 194], [[Immersion]] ,  [41, 49, 67, 182], memory [44, 150], engagement and [[Flow]] [41], [[Anxiety]] [142], and enjoyment and [[Discomfort]] [49]
+>research with perception has also looked at the effect of smell on realism [14, 15, 41], the sense of reality [15, 16], the sense of existence [135], the sense of involvement [65], emotion [41, 59, 150, 194], [[Immersion]] ,  [41, 49, 67, 182], memory [44, 150], engagement and [[Flow theory]] [41], [[Anxiety]] [142], and enjoyment and [[Discomfort]] [49]
 ## Conclusion
 
 >While the majority of work, approximately 76%, in this area, find that the sense of smell affects the sense of [[Presence]] in VR, about 24% found no differences

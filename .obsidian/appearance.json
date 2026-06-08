@@ -1,6 +1,9 @@
 {
   "cssTheme": "",
   "theme": "obsidian",
-  "accentColor": "#fe3e3e",
-  "baseFontSize": 16
+  "accentColor": "#ff2e2e",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "page_width"
+  ]
 }

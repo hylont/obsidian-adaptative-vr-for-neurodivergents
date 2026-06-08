@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "06c10485b287df4a",
+            "id": "10bfaf03b6bdcdf2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,49 +25,63 @@
             }
           },
           {
-            "id": "10bfaf03b6bdcdf2",
+            "id": "6c78b3babd989eab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synthesis and protocols/SYNTHESIS2.md",
+                "file": "Papers/TODO/Flow – The Psychology of optimal experience.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SYNTHESIS2"
+              "title": "Flow – The Psychology of optimal experience"
             }
           },
           {
-            "id": "28e5553a61bb1991",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
-            }
-          }
-        ]
-      },
-      {
-        "id": "523c79687243e331",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fd3e59255ea97d09",
+            "id": "5f4d85ce87a40c26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/Sensory overload in a shopping environment - Not every sensory modality leads to too much stimulation.md",
+                "file": "Symptoms and measurables/Flow theory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Sensory overload in a shopping environment - Not every sensory modality leads to too much stimulation"
+              "title": "Flow theory"
+            }
+          },
+          {
+            "id": "50003fb13d48cac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/TODO/Long and Short Measures of Flow - Examining Construct Validity of the FSS-2, DFS-2, and New Brief Counterparts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Long and Short Measures of Flow - Examining Construct Validity of the FSS-2, DFS-2, and New Brief Counterparts"
+            }
+          },
+          {
+            "id": "27d1b8c4756bf515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Effects of Valence and Arousal on Working Memory Performance  in Virtual Reality Gaming.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Effects of Valence and Arousal on Working Memory Performance  in Virtual Reality Gaming"
             }
           }
         ]
@@ -127,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "0e1dc361b5971035",
@@ -229,44 +242,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06c10485b287df4a",
+  "active": "10bfaf03b6bdcdf2",
   "lastOpenFiles": [
-    "Papers/Sensory overload in a shopping environment - Not every sensory modality leads to too much stimulation.md",
+    "Papers/TODO/A general recognition theory model for identifying an ideal stimulus.md",
     "Synthesis and protocols/Etat de l'art.md",
-    "attachments/Pasted image 20260604191328.png",
-    "Papers/Sensory overload - A concept analysis.md",
-    "Papers/Sensory adaptation.md",
-    "Papers/SCENTAUR - An Encountered-Type Olfactory Display for Large-Scale Smell Interaction in Virtual Reality.md",
-    "attachments/Pasted image 20260604185951.png",
-    "Papers/Research Hypothesis - A Brief History, Central Role in Scientific Inquiry, and Characteristics.md",
-    "attachments/Pasted image 20260604185219.png",
+    "Papers/Effects of Valence and Arousal on Working Memory Performance  in Virtual Reality Gaming.md",
     "Papers/Psychophysical and Behavioral Characteristics of Olfactory Adaptation.md",
-    "attachments/Pasted image 20260604182711.png",
-    "Papers/Predicting virtual reality discomfort.md",
-    "Papers/Olfactory processing in adults with autism spectrum disorders.md",
-    "attachments/Pasted image 20260604165524.png",
-    "Papers/Olfactory Nomenclature - An Orchestrated Effort to Clarify Terms and Definitions of Dysosmia.md",
-    "Papers/Olfaction in autism spectrum disorders A systematic review.md",
-    "Synthesis and protocols/SYNTHESIS2.md",
-    "Sans titre.md",
-    "attachments/Pasted image 20260604162405.png",
-    "Papers/Odor Intensity and pleasantness for a diverse set of odorants.md",
-    "attachments/Pasted image 20260604152304.png",
-    "Papers/Measuring Visual Fatigue and Cognitive Load via Eye Tracking while Learning with Virtual Reality Head-Mounted Displays - A Review.md",
-    "Papers/Investigation into Stress Triggers in Autistic Adults for the Development of Technological Self-Interventions.md",
-    "Papers/Exploring Multisensory Extended Reality Approaches for Autistic Children - Improve Well-Being and Assess Auditory Perception.md",
-    "Questionnaires/Tools/Picture Exchange Communication System (PECS).md",
-    "Papers/Le traité de la Réalité Virtuelle.md",
-    "attachments/Pasted image 20260603233704.png",
-    "attachments/Pasted image 20260603195828.png",
-    "Papers/In a dirty virtual room - exposure to an unpleasant odor increases the senses of presence, reality, and realism.md",
-    "attachments/Pasted image 20260603194857.png",
-    "Papers/Imaginator - A Virtual Reality Based Game for the Treatment of Sensory Processing Disorders.md",
-    "Papers/Human senses and sensors from Aristotle to the present.md",
-    "Papers/Gustofacial and Olfactofacial Responses in Human Adults.md",
-    "Papers/Evaluating a virtual reality sensory room for adults with disabilities.md",
-    "Papers/Environnement et santé publique - Odeurs.md",
-    "Papers/Emotion Recognition in Adaptive Virtual Reality Settings - Challenges and Opportunities.md",
+    "Symptoms and measurables/Flow theory.md",
+    "Papers/TODO/Long and Short Measures of Flow - Examining Construct Validity of the FSS-2, DFS-2, and New Brief Counterparts.md",
+    "Papers/TODO/Flow – The Psychology of optimal experience.md",
+    "Papers/Optimum stimulation Level.md",
+    "attachments/Pasted image 20260608132137.png",
+    "Valence.md",
+    "Working memory.md",
+    "attachments/Pasted image 20260608125945.png",
+    "attachments/Pasted image 20260608125908.png",
+    "Papers/TODO/Towards an Effective Arousal Detection System for Virtual Reality.md",
+    "CSI short-form scale.md",
+    "attachments/Pasted image 20260608103652.png",
+    "attachments/Pasted image 20260608100710.png",
+    "attachments/Pasted image 20260608100628.png",
+    "Change Seeker Index (CSI).md",
+    "Novelty Experience Scale (NES).md",
+    "Sensory Seeking Scale (SSS).md",
+    "Papers/TODO/Sensory processing disorder - Key points of a frequent alteration in neurodevelopmental disorders.md",
+    "Arousal Seeking Tendency scale (AST).md",
+    "Optimum Stimulation Level (OSL).md",
+    "Papers/Classifying sensory profiles of children in the general population.md",
+    "Papers/Exploring sensory phenotypes in autism spectrum disorder.md",
+    "Sensory classifications/Sensory profiles/Generalized Sensory Differences (GSD).md",
+    "Articles/Scented Realities - When Virtual Worlds Begin to Smell.md",
+    "Articles/Fuzzy Inference Systems.md",
+    "Sensory classifications/Sensory profiles/Sensory profiles.md",
+    "Sensory classifications/Sensory profiles/Sensory phenotypes.md",
+    "Sensory classifications/Sensory profiles/Sensory subtypes (or phenotypes).md",
+    "attachments/Pasted image 20260605103410.png",
+    "attachments/Pasted image 20260605101543.png",
+    "attachments/Pasted image 20260605004254.png",
+    "attachments/Pasted image 20260604191328.png",
     "_deprecated",
     "attachments/DunnSensoryProcessingPatterns.png.0.pdnSave",
     "Questionnaires/Tools",
