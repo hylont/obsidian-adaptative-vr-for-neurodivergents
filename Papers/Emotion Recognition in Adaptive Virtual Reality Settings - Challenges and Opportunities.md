@@ -64,7 +64,7 @@ doi: 10.3389/fpsyg.2023.1280136
 
 # Synthesis
 
-This paper lists evry way of emotion Recognition :
+This paper lists every way of emotion Recognition :
 - Face tracking (few info)
 - Body tracking : velocity, acceleration, trajectory, and angle of joints (better used with audio as well)
 - Audio (paralinguitic & semantic) : intonation, timing, volume, and pitch
